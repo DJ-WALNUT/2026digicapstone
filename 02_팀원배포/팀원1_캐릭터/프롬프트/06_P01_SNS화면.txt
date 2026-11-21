@@ -1,0 +1,6 @@
+Design a fictional short-video social media app screen (not any real app, no real logos), vertical 9:16 phone screen, dark mode. A post featuring the attached worry doll sitting on a desk, with large Korean title text "걱정 인형" and subtitle "내 걱정을 대신해주는 작은 인형", hashtag "#걱정인형", like count "12.4만". 
+Second screen: a comment list in Korean:
+"과제가 알아서 끝났어요…! 😭👍" (5.8만)
+"이거 진짜 편함… 요즘 없으면 못 살아요 ㅠㅠ" (3.1만)
+"시간이 생겨서 다른 작업도 할 수 있어요!"
+Clean, believable UI with warm thumbnail tones. Output both screens side by side.
