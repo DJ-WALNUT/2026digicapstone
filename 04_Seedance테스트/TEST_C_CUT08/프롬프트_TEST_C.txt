@@ -1,0 +1,21 @@
+[TEST C — CUT 08 / 음성을 넣으면 립싱크가 맞는지 확인]
+대사: 서연 "너… 나 닮았다." (인형을 얼굴 가까이 들어 올리고, 가볍게 웃으며)
+첨부 순서: Image 1 = C01_주인공_턴어라운드.png / Image 2 = C02_주인공_표정시트.png
+           Image 3 = C03_걱정인형_턴어라운드.png / Image 4 = L02_골목_밤.png
+           Audio 1 = audio/CUT08_서연_너나닮았다_take1_smart.wav (확정, 2.10초)
+           목소리: 타입캐스트 서희 (Seohee), ssfm-v31 — 선정 근거는 ../결과기록.md
+길이: 4~5초 (음성 2.10초 + 앞뒤 여유) · 화면비 16:9
+※ 앱이 @ 태그로 참조하는 방식이면 "image 1" → "@Image1", "audio 1" → "@Audio1" 처럼 바꿔서 붙여넣기
+
+===== C1 (타입캐스트 음성 사용) — 아래 전체 복사 =====
+
+Stop-motion puppet animation, photographed for real on a handmade 1:6 miniature set. Night, in the narrow alley in front of the red-brick house door from image 4, lit by the warm porch lamp.
+
+Close-up. The young woman puppet from image 1 (same face, freckles, slightly oversized brown eyes, messy high dark-brown bun, olive fleece hoodie) holds the small handmade felt worry doll from image 3 up near her face with both hands, studying it. She smiles lightly, amused, and speaks the line in audio 1 — her lips must be synced to audio 1, using mouth shapes like image 2. The felt doll stays perfectly still, staring back at her with glossy bead eyes. Her face and the doll's face are at the same height in the frame.
+
+Static camera with a very slow push-in, shallow depth of field, animated on twos (12 fps), slight frame-to-frame jitter. Use audio 1 as her voice exactly; do not add any other voice, music or subtitles. Quiet night ambience only.
+
+===== C2 (대조군 — Seedance가 목소리까지 생성) =====
+Audio 1 없이 Image 1~4만 넣고 실행. 목소리 품질·입모양·한국어 발음을 C1과 비교.
+
+Stop-motion puppet animation on a handmade 1:6 miniature set. Night, in the narrow alley in front of the red-brick house door from image 4, warm porch lamp. Close-up: the young woman puppet from image 1 (same face, messy high bun, olive hoodie) holds the small felt worry doll from image 3 up near her face with both hands. She smiles lightly, amused, and softly says in Korean: "너… 나 닮았다." (a short pause after "너"). Lip-synced Korean speech, young adult female voice, calm and a little tired, mouth shapes like image 2. The doll stays still, staring back. Static camera with a very slow push-in, shallow depth of field, animated on twos (12 fps). No music, no subtitles. Quiet night ambience.

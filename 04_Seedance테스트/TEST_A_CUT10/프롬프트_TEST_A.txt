@@ -1,0 +1,17 @@
+[TEST A — CUT 10 / 참고 이미지만으로 캐릭터·공간 유지 확인]
+첨부 순서: Image 1 = L01_방_밤.png / Image 2 = C01_주인공_턴어라운드.png
+길이: 5초 (A1·A2 같은 길이) · 화면비 16:9 · 소리: 켜기(환경음만)
+※ 앱이 @ 태그로 참조하는 방식이면 "image 1" → "@Image1", "image 2" → "@Image2" 로 바꿔서 붙여넣기
+
+===== A1 (기본) — 아래 전체 복사 =====
+
+Stop-motion puppet animation, photographed for real on a handmade 1:6 miniature set. Use image 1 as the location: the protagonist's small bedroom at night — keep the exact furniture layout, the wooden desk with the adjustable desk lamp, the dress-form mannequin with the unfinished pinned jacket, the mood board of fashion sketches and fabric swatches, the bed with olive blanket, and the blue city night outside the window. Use image 2 as the character: keep her face, freckles, slightly oversized brown eyes, messy high dark-brown bun, olive fleece hoodie and charcoal wide trousers EXACTLY as in image 2.
+
+Locked-off static wide shot of the whole desk area. The tired young woman puppet sits at the desk late at night working on a fashion design assignment: she pins a small piece of fabric onto pattern paper, pauses, rubs her eyes with the back of her hand, then picks up her pencil again. Small, deliberate puppet movements, animated on twos (12 fps), slight frame-to-frame jitter, real fabric fuzz and wood grain.
+
+Warm 3200K desk lamp as the key light, cool blue night through the window, deep brown shadows. No camera movement. No other people. No text, no subtitles, no music. Sound: quiet room tone, a ticking wall clock, soft pencil scratching.
+
+===== A2 (비교용, 선택) — 공간 고정 우선 =====
+A1에서 방 배치가 많이 바뀌었을 때만 실행. Image 1을 "첫 프레임(start frame)"으로 넣을 수 있는 모드면 그 모드로.
+
+Start exactly from image 1 and keep the camera locked. The young woman puppet from image 2 (same face, messy high bun, olive hoodie, charcoal trousers) is sitting at the desk with her back three-quarters to the camera, working quietly under the warm desk lamp: she pins a fabric piece onto pattern paper, pauses, rubs her eyes, continues. Stop-motion puppet animation on a real 1:6 miniature set, animated on twos (12 fps), slight frame-to-frame jitter. Keep every piece of furniture where it is in image 1. No camera movement, no text, no music. Quiet room tone and a ticking clock.

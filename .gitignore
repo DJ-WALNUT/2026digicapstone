@@ -12,6 +12,7 @@
 # 환경변수 / API 키 (Seedance, Meshy, Tripo 등 키를 쓰게 될 경우 대비)
 .env
 .env.*
+!.env.example
 *.key
 secrets/
 
