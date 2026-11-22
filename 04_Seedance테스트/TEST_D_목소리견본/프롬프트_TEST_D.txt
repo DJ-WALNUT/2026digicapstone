@@ -1,0 +1,29 @@
+[TEST D — TTS를 "목소리 견본"으로만 주고 Seedance가 새 대사를 말하게 하기 (B안)]
+목적: 견본(소예 TTS)과 같은 목소리로, 견본에 없는 새 대사를 자연스럽게 말하는지 / 컷이 바뀌어도 같은 목소리인지
+목소리 견본: VOICE_REF_소예_CUT08.wav (이 폴더, "너… 나 닮았다." 1.9초) ← D1·D2 모두 같은 파일
+길이: 5초 · 16:9 · 소리 켜기 · 도구: Dreamina (C 테스트와 같은 모드)
+※ 앱이 @ 태그 방식이면 "image 1" → "@Image1", "audio 1" → "@Audio1"
+
+저장: 결과 영상을 이 폴더에 D1 / D2 를 파일명 앞에 붙여서 넣기 (예: "D1 dreamina-….mp4")
+→ Claude가 같은 대사의 소예 TTS(03_대본/tts/)와 음색·음높이를 수치로 비교
+
+판정
+- 대사를 정확히 말함 (견본 "너… 나 닮았다."를 그대로 재생하면 실패)
+- D1·D2 목소리가 서로 같고, 소예 TTS와 음색 차이가 작음 → B안 사용 가능
+- 둘 중 하나라도 목소리가 확 다르면 → A안(TTS 파일을 그대로 소리로 첨부)
+
+
+===== D1 — CUT 15 (아침 방, 놀람 → 웃음) =====
+첨부 순서: Image 1 = L01_방_아침.png / Image 2 = C01_주인공_턴어라운드.png / Image 3 = C03_걱정인형_턴어라운드.png / Audio 1 = VOICE_REF_소예_CUT08.wav
+
+Stop-motion puppet animation, photographed for real on a handmade 1:6 miniature set. The bedroom from image 1 on a quiet morning, warm sunlight. Medium close-up: the young woman puppet from image 2 (same face, freckles, messy high dark-brown bun, olive fleece hoodie) stands by the desk, looks from the finished jacket on the mannequin to the small felt worry doll from image 3 on the desk, surprised, then breaks into a warm smile and gently pats the doll's head.
+
+She says in Korean: "너, 진짜야? …고마워." (a short pause before "고마워"). Use exactly the same voice, timbre and speaking style as the woman in audio 1, but speak this NEW line — do NOT play the words of audio 1. Lips synced to her speech. No other voices, no music, no subtitles. Soft morning room tone.
+
+
+===== D2 — CUT 26 (밤 책상, 지쳐서 혼잣말) =====
+첨부 순서: Image 1 = L01_방_밤.png / Image 2 = C01_주인공_턴어라운드.png / Audio 1 = VOICE_REF_소예_CUT08.wav
+
+Stop-motion puppet animation, photographed for real on a handmade 1:6 miniature set. The bedroom from image 1 at night, warm desk lamp. Medium close-up at the front worktable: the young woman puppet from image 2 (same face, messy high bun, olive fleece hoodie) reaches for a pencil, her fingers move a little awkwardly and the pencil slips and rolls away. She looks at her hand for a moment, tired.
+
+She murmurs in Korean, quietly: "…피곤해서 그런가." Use exactly the same voice and timbre as the woman in audio 1, but speak this NEW line — do NOT play the words of audio 1. Lips synced to her speech. No other voices, no music, no subtitles. Quiet night room tone, a ticking clock.
