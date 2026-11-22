@@ -1,0 +1,9 @@
+STYLE: handcrafted stop-motion puppet animation film, photographed for real on a miniature set (1:6 scale), based on the stylized 3D character design in the attached references. Characters are physical puppets: smooth matte resin/silicone faces with subtle hand-painted blush and freckles, slightly oversized glassy eyes, hair sculpted from real fibers, clothes tailored from real miniature fabric with visible weave, fuzz and stitching. Sets are handmade miniatures: real wood grain, paper, tiny props, slight imperfections, faint fingerprints and dust. Practical miniature lighting, macro lens look with shallow depth of field, subtle film grain. Mood: quiet psychological horror hidden inside a cozy, warm everyday world. Color: warm amber / tungsten practical lights, deep brown shadows, muted olive and charcoal accents. Keep proportions, face shape, hairstyle and clothing EXACTLY consistent with the attached reference images. No text, no watermark, no logo unless asked.
+
+Edit the first attached image (2x2 grid of the room from four directions plus the floor plan). Keep the layout, the floor plan, the night lighting and the furniture positions. Only fix the following:
+
+1. BOTTOM-RIGHT panel: remove the plain grey blocking shapes (the stacked grey spheres and the grey cylinder in front of the desk). Replace them with the same wooden desk chair as in the other panels. Everything in the panel must be a fully detailed miniature-set object — no grey placeholder shapes anywhere.
+2. BOTTOM-LEFT panel (looking back at the door): the room has only ONE door. Keep the single open wooden door in the middle and replace the other dark door-like openings with plain wall.
+3. Make sure the room matches the second attached image (the approved night room): same moodboard wall, same mannequin with the unfinished jacket, same shelf, same desk lamp, same bed.
+
+No new text other than the existing floor plan labels.
