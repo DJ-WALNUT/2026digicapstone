@@ -1,6 +1,7 @@
 {
   "cut": "CUT08",
   "text": "너… 나 닮았다.",
-  "voice_id": "tc_66d91cac31a58a718f750a49",
-  "model": "ssfm-v31"
+  "voice_id": "tc_6837dec48fc46637a9272b88",
+  "model": "ssfm-v31",
+  "audio_pitch": 0
 }

@@ -48,7 +48,7 @@ def load_env():
             if line and not line.startswith("#") and "=" in line:
                 k, v = line.split("=", 1)
                 env[k.strip()] = v.strip().strip('"').strip("'")
-    for k in ("TYPECAST_API_KEY", "TYPECAST_VOICE_ID", "TYPECAST_MODEL"):
+    for k in ("TYPECAST_API_KEY", "TYPECAST_VOICE_ID", "TYPECAST_MODEL", "TYPECAST_PITCH"):
         if os.environ.get(k):
             env[k] = os.environ[k]
     return env
@@ -90,7 +90,7 @@ def wav_seconds(p):
         return None
 
 
-def make(key, voice, model):
+def make(key, voice, model, pitch=0):
     out = HERE / "audio"
     out.mkdir(exist_ok=True)
     takes = [
@@ -104,7 +104,7 @@ def make(key, voice, model):
         body = {
             "voice_id": voice, "text": TEXT, "model": model, "language": "kor",
             "prompt": prompt,
-            "output": {"audio_format": "wav", "volume": 100, "audio_pitch": 0, "audio_tempo": 1.0},
+            "output": {"audio_format": "wav", "volume": 100, "audio_pitch": pitch, "audio_tempo": 1.0},
         }
         raw, ctype = call("POST", "/v1/text-to-speech", key, body)
         if "json" in ctype:
@@ -113,7 +113,7 @@ def make(key, voice, model):
         p.write_bytes(raw)
         sec = wav_seconds(p)
         print(f"저장: {p.name}  ({sec:.2f}초)" if sec else f"저장: {p.name}")
-    meta = {"cut": CUT, "text": TEXT, "voice_id": voice, "model": model}
+    meta = {"cut": CUT, "text": TEXT, "voice_id": voice, "model": model, "audio_pitch": pitch}
     (out / f"{CUT}_tts_info.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
     print("\n마음에 드는 테이크 1개를 Seedance TEST C의 Audio 1로 첨부하세요. 같은 voice_id를 대체품(CUT 31~)에도 사용합니다.")
 
@@ -133,7 +133,7 @@ def main():
         voice = args[args.index("--voice") + 1] if "--voice" in args else env.get("TYPECAST_VOICE_ID")
         if not voice:
             sys.exit("목소리를 정해 주세요: python make_tts.py voices 로 고른 뒤 --voice tc_xxx 또는 .env 의 TYPECAST_VOICE_ID")
-        make(key, voice, model)
+        make(key, voice, model, int(env.get("TYPECAST_PITCH") or 0))
 
 
 if __name__ == "__main__":
