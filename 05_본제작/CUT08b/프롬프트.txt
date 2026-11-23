@@ -1,8 +1,0 @@
-[CUT 08b 인형 얼굴 클로즈업, 대사 없음]
-■ 1단계 이미지 (Gemini/ChatGPT)  첨부: Image 1 = 1_C03_인형정면_크롭.png / Image 2 = 2_CUT08a_첫장면.png  → CUT08b_첫장면.png
-===== 복사 =====
-Create the reverse shot of image 2, 16:9, same night, same warm porch light against cool blue alley, same shallow depth of field. Close-up of the small felt doll from image 1: copy its face exactly (felt skin, wide-set dark bead eyes, tiny mouth, blush, yarn hair bun, olive hoodie). The doll's face is slightly right of centre, turned a little toward screen left, its gaze meeting someone just off the left edge of the frame. Its face is about the same size in the frame as the woman's face in image 2 and at the same height. At the bottom edge, the woman's fingers from image 2 are wrapped around the doll's waist, partly out of focus. Her face is not visible. Neutral, unreadable expression. No text.
-
-■ 2단계 영상 (Seedance)  첨부: 첫 프레임 = CUT08b_첫장면.png 만. 음성 없음. 가장 짧은 길이(4~5초), 16:9, 1080p  → CUT08b_영상.mp4
-===== 복사 =====
-Keep the doll, hands, lighting and composition exactly as in the starting image. The doll is a lifeless object: its face, eyes and mouth do not move at all. Only a few loose yarn hairs stir faintly in the night air and the fingers holding it shift almost imperceptibly. Very slow, minimal push-in. No voice, no music, no subtitles. Quiet night ambience only.

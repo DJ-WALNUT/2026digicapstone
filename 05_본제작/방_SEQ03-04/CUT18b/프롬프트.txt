@@ -1,9 +1,0 @@
-[CUT 18b]  메모: 18a와 구도가 같아야 함
-
-■ 1단계 이미지 (Gemini/ChatGPT)
-첨부 순서: 1_L01_방_밤.png / 2_구도_CUT18b.png / 3_C04a_STAGE1_전신_크롭.png
-저장: CUT18b_첫장면.png
-===== 복사 =====
-Edit the room image. Keep its camera, room, furniture and light exactly as they are. The grey 3D layout image is only a guide for camera, positions and sizes; do not copy its colours, plain shapes or faces. (image 2)
-No person. On the worktable stand the slightly larger 20 cm doll of image 3 (ignore the hand holding it) and a thicker stack of finished work beside it, positions as in image 2.
-Handmade 1:6 miniature puppet film still, photographed for real. 16:9. No text, no labels, no grey placeholder shapes.

@@ -1,0 +1,15 @@
+[CUT 14]  메모: 끝 구도는 CUT14_끝구도.png 참고
+
+■ 1단계 이미지 (Gemini/ChatGPT)
+첨부 순서: 1_L01_방_아침.png / 2_구도_CUT14.png / 3_C03_인형정면_크롭.png / 4_완성의상_크롭.png
+저장: CUT14_첫장면.png
+===== 복사 =====
+Edit the room image. Keep its camera, room, furniture and light exactly as they are. The grey 3D layout image is only a guide for camera, positions and sizes; do not copy its colours, plain shapes or faces. (image 2)
+No person. The 15 cm felt doll of image 3 stands on the worktable at the position in image 2. The garment on the mannequin is the finished jacket of image 4, neat stitching and belt. Pattern paper is neatly stacked.
+Handmade 1:6 miniature puppet film still, photographed for real. 16:9. No text, no labels, no grey placeholder shapes.
+
+■ 2단계 영상 (Seedance)
+첨부: 첫 프레임 = CUT14_첫장면_FINAL.png 만. 음성 없음. 5초, 16:9, 720p
+저장: CUT14_영상.mp4
+===== 복사 =====
+Keep the room, jacket, doll and lighting as in the starting image. The camera glides slowly forward and slightly left, across the room, and ends on a medium view of the mannequin wearing the finished jacket. Nothing else moves; dust drifts in the light. Soft morning room tone. No voice, no music, no subtitles.

@@ -1,0 +1,10 @@
+[CUT23]
+첨부 (이 순서대로 올리기): 1_방_아침_기준.png / 2_구도_CUT23.png / 3_C01_주인공_턴어라운드.png / 4_C04a_STAGE2_전신_크롭.png / 5_완성의상_크롭.png
+저장 이름: CUT23_첫장면_v1.png
+합격 기준: 방·창문·책상·인형 자리가 `방_아침_기준` 또는 `방_밤_기준`과 겹쳤을 때 같음. 회색 도형이나 글자가 남지 않음. 인형이 14의 두 배 조금 넘는 크기. 서연은 인형을 보지 않음
+
+===== 아래부터 복사 =====
+In image 1 replace the small doll with the 35 cm doll, feet at exactly the same spot, a little more than twice as tall. This overrides any other position given below.
+Edit the room image. Keep its camera, room, furniture and light exactly as they are. The grey 3D layout image is only a guide for camera, positions and sizes; do not copy its colours, plain shapes or faces. (image 2)
+Add the young woman puppet of the character sheet (short face, freckles, big dark eyes, tiny nose, messy high dark-brown bun, olive fleece hoodie, charcoal trousers) from image 3, standing at the left as in image 2, holding a finished folder, walking out toward the camera's left, satisfied, not looking at the doll. On the worktable stands the much larger 35 cm doll of image 4 (ignore the hand holding it), at the position and size in image 2, beside a tall stack of finished work. Finished jacket of image 5 on the mannequin.
+Handmade 1:6 miniature puppet film still, photographed for real. 16:9. No text, no labels, no grey placeholder shapes.

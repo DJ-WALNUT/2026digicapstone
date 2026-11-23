@@ -1,0 +1,10 @@
+[CUT19]
+첨부 (이 순서대로 올리기): 1_방_밤_기준.png / 2_구도_CUT19.png / 3_C01_주인공_턴어라운드.png / 4_C04a_STAGE1_전신_크롭.png / 5_인형위치기준_CUT14.png
+저장 이름: CUT19_첫장면_v1.png
+합격 기준: 방·창문·책상·인형 자리가 `방_아침_기준` 또는 `방_밤_기준`과 겹쳤을 때 같음. 회색 도형이나 글자가 남지 않음. 서연은 침대에 누워 등을 돌림
+
+===== 아래부터 복사 =====
+Place the doll's feet at exactly the same spot on the table as the doll in image 5, one third taller than it. This overrides any other position given below.
+Edit the room image. Keep its camera, room, furniture and light exactly as they are. The grey 3D layout image is only a guide for camera, positions and sizes; do not copy its colours, plain shapes or faces. (image 2)
+Add the young woman puppet of the character sheet (short face, freckles, big dark eyes, tiny nose, messy high dark-brown bun, olive fleece hoodie, charcoal trousers) from image 3, lying on the bed on the left with her back to the worktable, relaxed, head on the pillow. On the worktable the 20 cm doll of image 4 (ignore the hand holding it) stands beside a tall stack of unfinished work.
+Handmade 1:6 miniature puppet film still, photographed for real. 16:9. No text, no labels, no grey placeholder shapes.

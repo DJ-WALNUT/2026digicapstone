@@ -1,8 +1,0 @@
-[CUT 15b 인형 클로즈업, 머리를 쓰다듬는 손, 대사 없음]  ※ CUT15a 이미지가 확정된 뒤 진행
-■ 1단계 이미지 (Gemini/ChatGPT)  첨부: Image 1 = 1_C03_인형정면_크롭.png / Image 2 = CUT15a_첫장면.png / Image 3 = 3_구도_CUT15b.png  → CUT15b_첫장면.png
-===== 복사 =====
-Create the next shot after image 2, 16:9, with the camera and doll size of image 3. The grey 3D layout image is only a guide for camera, positions and sizes; do not copy its colours, plain shapes or faces. It has the same room, same golden morning light. Close-up at table height of the small felt doll from image 1 standing on the worktable, facing the camera almost frontally; copy its face exactly, neutral expression. The woman's hand and olive fleece sleeve from image 2 enter from the upper left, fingertips resting gently on top of the doll's yarn hair. Her hand is puppet skin, natural proportions, five fingers. Her face is not visible. Pattern paper and sewing tools softly out of focus. No text.
-
-■ 2단계 영상 (Seedance)  첨부: 첫 프레임 = CUT15b_첫장면.png 만. 음성 없음. 4~5초, 16:9, 1080p  → CUT15b_영상.mp4
-===== 복사 =====
-Keep the doll, hand, lighting and composition as in the starting image. The fingertips stroke the top of the doll's hair gently, twice, and then lift away out of frame. The yarn hair yields slightly. The doll's face, eyes and mouth do not move at all. Locked camera. No voice, no music, no subtitles. Soft morning room tone and a faint fabric rustle.

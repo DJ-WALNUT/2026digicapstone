@@ -1,0 +1,9 @@
+[CUT22_후]
+첨부 (이 순서대로 올리기): 1. 방금 만든 CUT22_전 이미지 / 2_C04a_STAGE2_전신.png / 3_C04a_STAGE2_얼굴.png
+저장 이름: CUT22_후_v1.png
+합격 기준: 전·후를 넘겨 봤을 때 눈 위치와 머리 크기가 같음
+
+===== 아래부터 복사 =====
+Edit image 1. Keep the camera, framing, head size, head position, eye position, light and background exactly the same. Replace only the doll with the more human-like version shown in images 2 and 3: same hair bun and olive hoodie, more detailed eyes and lips, skin-like texture. Same neutral expression, lips closed. The eyes must be in exactly the same place in the frame as in image 1. No hand in the frame.
+
+Handmade 1:6 miniature puppet film still, photographed for real, shallow depth of field, 16:9. No text, no labels, no border, no collage.

@@ -1,3 +1,0 @@
-[CUT 14 보정] 첨부: Image 1 = CUT14_첫장면.png / Image 2 = 3_C03_인형정면_크롭.png / Image 3 = 2_구도_CUT14.png → 저장: CUT14_첫장면_v2.png
-===== 복사 =====
-Edit image 1. Keep the camera, room, light, jacket, table and every object exactly as they are. Change only the doll: make it much smaller, about one third of its present height, so it is only a little taller than the red pincushion's width and clearly a palm-sized 15 cm object. Place it farther back on the worktable, at the position shown in image 3, standing upright. Copy its face, muted olive hoodie and dark brown yarn hair from image 2; the hoodie is olive, not green, and the hair is dark brown, not red. Restore the paper and sketchbook where the big doll stood. Remove nothing else. No text. 16:9.
