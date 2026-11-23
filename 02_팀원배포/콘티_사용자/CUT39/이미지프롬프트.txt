@@ -1,0 +1,8 @@
+[CUT39]
+첨부 (이 순서대로 올리기): 1_C04c_엔딩_두얼굴_B화장실.png / 2_C04b_주인공_인형화단계.png / 3_방_아침_기준.png
+저장 이름: CUT39_첫장면_v1.png
+합격 기준: 38과 눈높이·얼굴 크기가 같음. 40은 38과 39를 편집에서 교차
+
+===== 아래부터 복사 =====
+Create one film still: extreme close-up of the doll face shown in images 1 and 2 (the woman turned into a cloth doll), front view, motionless, on the worktable of image 3, background blurred. Face height and size identical to the human face in image 1. No text.
+Handmade 1:6 miniature puppet film still, photographed for real. 16:9. No text, no labels, no grey placeholder shapes.

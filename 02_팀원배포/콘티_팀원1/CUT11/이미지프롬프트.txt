@@ -1,0 +1,10 @@
+[CUT11]
+첨부 (이 순서대로 올리기): 1_CUT11_구도.png / 2_방_밤_기준.png / 3_서연얼굴기준.png / 4_C02_비스듬_크롭.png / 5_C03_인형정면_크롭.png / 6_방_아침_기준.png
+저장 이름: CUT11_첫장면_v1.png
+합격 기준: 서연이 08a와 같은 사람. 인형을 감싸 쥠. 얼굴이 다르면 사용자에게 알리기
+
+===== 아래부터 복사 =====
+The table, sketchbook and the place where the doll stands follow image 6. This overrides any other position given below.
+Create one film still with the camera, positions and sizes of image 1, in the night room of image 2. The grey 3D layout image is only a guide for camera, positions and sizes; do not copy its colours, plain shapes or faces. (image 1)
+The woman has the face and proportions of images 3 and 4. She leans over the worktable, tired, setting the small 15 cm felt doll of image 5 down on it with both hands, fingers around its body. Her head is tilted down toward the doll, a faint wry smile, lips closed, hair partly over her cheek. A small alarm clock stands in the foreground, its face turned away. Warm desk lamp, cool window.
+Handmade 1:6 miniature puppet film still, photographed for real. 16:9. No text, no labels, no grey placeholder shapes.

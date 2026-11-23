@@ -1,0 +1,9 @@
+[CUT38B]
+첨부 (이 순서대로 올리기): 1_CUT38B_구도.png / 2_L04_화장실_거울.png / 3_C04c_엔딩_두얼굴_B화장실.png / 4_서연얼굴기준.png
+저장 이름: CUT38B_첫장면_v1.png
+합격 기준: A·B 두 안의 눈높이와 얼굴 크기가 같음
+
+===== 아래부터 복사 =====
+Create one film still with the camera of image 1, in the place of image 2. The grey 3D layout image is only a guide for camera, positions and sizes; do not copy its colours, plain shapes or faces.
+The mirror fills most of the frame and shows the human-looking replacement from image 3, with the same face as image 4, expressionless, small hand-sewn stitches at the side of the face and neck, looking straight ahead. Same face height and size as in image 3. No text from image 3.
+Handmade 1:6 miniature puppet film still, photographed for real. 16:9. No text, no labels, no grey placeholder shapes.
