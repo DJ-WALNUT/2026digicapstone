@@ -1,0 +1,9 @@
+[CUT22_후 수정] 필수
+고칠 이유: 세로 전신으로 나와 22_전과 짝이 안 맞음
+첨부 (이 순서대로 올리기): 1_CUT22_전.png / 2_STAGE2_전신.png / 3_STAGE2_얼굴.png
+저장 이름: CUT22_후_v2.png
+합격 기준: 가로 16:9. 22_전과 번갈아 봤을 때 눈 위치와 머리 크기가 같음
+
+===== 아래부터 복사 =====
+Edit image 1. The result must be a horizontal 16:9 image, a head-and-chest shot like image 1, not a full body. Keep the camera, framing, head size, head position, eye position, light and background of image 1 exactly the same. Change only the doll into the more human-like version shown in images 2 and 3: same hair bun and olive hoodie, more detailed eyes and lips, skin-like texture. Same neutral expression, lips closed. The eyes must be in exactly the same place in the frame as in image 1. No hand in the frame.
+Handmade 1:6 miniature puppet film still, photographed for real. 16:9. No text, no labels, no grey placeholder shapes.

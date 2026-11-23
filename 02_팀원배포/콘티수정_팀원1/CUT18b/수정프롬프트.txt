@@ -1,0 +1,10 @@
+[CUT18b 수정] 필수
+고칠 이유: 인형이 목표보다 약 2배 큼
+첨부 (이 순서대로 올리기): 1_크기안내.png / 2_STAGE1_인형.png
+저장 이름: CUT18b_첫장면_v2.png
+합격 기준: 인형 키가 18a의 1.33배(분홍 도형과 같음). 분홍색이 남지 않음
+
+===== 아래부터 복사 =====
+Edit image 1. Keep the camera, framing, light, colours and everything not mentioned here exactly the same.
+Image 1 shows a flat pink shape on the table. Replace the pink shape with the doll of image 2 (ignore the hand holding it). The pink shape is the exact size and position of the doll: the top of the hair bun touches the top of the shape and the soles of the shoes touch its bottom. Do not make the doll taller or wider than the pink shape. No pink may remain. Remove any visible patch edges around it so the table and background look continuous and clean, and add a natural soft contact shadow. There is only one doll, and it faces the camera with a neutral expression, lips closed.
+Handmade 1:6 miniature puppet film still, photographed for real. 16:9. No text, no labels, no grey placeholder shapes.

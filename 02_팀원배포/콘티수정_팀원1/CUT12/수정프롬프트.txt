@@ -1,0 +1,10 @@
+[CUT12 수정] 필수
+고칠 이유: 밤인데 재킷이 이미 완성됨. 인형이 너무 큼
+첨부 (이 순서대로 올리기): 1_구도.png / 2_밤_책상.png / 3_C03_인형정면.png
+저장 이름: CUT12_첫장면_v2.png
+합격 기준: 재킷·마네킹이 안 보임. 인형 얼굴이 C03과 같고 무표정. 어둡지만 인형은 보임
+
+===== 아래부터 복사 =====
+Create one film still with the camera and doll size of image 1, on the worktable of image 2. The grey 3D layout image is only a guide for camera, positions and sizes; do not copy its colours, plain shapes or faces.
+The lamp is off and the room is dark; only weak cool moonlight. The small 15 cm felt doll of image 3 stands on the worktable facing the camera, face copied exactly, neutral. Any sewing tool near it keeps a believable size: the red pincushion is a little more than half the doll's height. The background is plain, dark and strongly out of focus. No mannequin, no jacket, no window and no person in the frame.
+Handmade 1:6 miniature puppet film still, photographed for real. 16:9. No text, no labels, no grey placeholder shapes.

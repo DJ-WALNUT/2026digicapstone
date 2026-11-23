@@ -1,0 +1,9 @@
+[CUT07 수정] 필수
+고칠 이유: 인형 얼굴이 08b보다 훨씬 작음
+첨부 (이 순서대로 올리기): 1_구도안내.png / 2_CUT08b_기준.png / 3_C03_인형정면.png
+저장 이름: CUT07_첫장면_v2.png
+합격 기준: 인형 얼굴 크기·높이가 08b와 비슷. 무표정
+
+===== 아래부터 복사 =====
+Image 1 is a blurry enlargement. Recreate it as a sharp, finely detailed close-up with exactly the same framing: the doll at the same place and the same large size in the frame, standing on the stone step. Do not zoom out. The doll's face is about the same height and size in the frame as the doll's face in image 2. The doll is exactly the felt doll of image 3, face copied exactly, facing the camera, neutral and lifeless. Warm porch light, dark blue alley out of focus as in image 2. No person, no hands.
+Handmade 1:6 miniature puppet film still, photographed for real. 16:9. No text, no labels, no grey placeholder shapes.
