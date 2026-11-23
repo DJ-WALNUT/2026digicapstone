@@ -1,0 +1,10 @@
+[CUT05 수정 2차] 필수
+고칠 이유: 서연이 우리 집 현관을 이미 지나친 위치에서 걸어와, 06에서 현관 앞에 선 것과 맞지 않음
+첨부 (이 순서대로 올리기): 1_현재본_v2.png / 2_구도.png
+저장 이름: CUT05_첫장면_v3.png
+합격 기준: 현관문·처마·현관등·계단이 안 보임. 서연의 얼굴·자세·크기는 그대로
+
+===== 아래부터 복사 =====
+Edit image 1. Keep the woman, her face, pose, size, bag, the left wall, the poles, the streetlights and the night light exactly the same.
+Change only the right side: remove the house entrance completely, including the front door, porch roof, porch lamp, steps, meter box and the potted plants around them. Replace it with a plain continuous plastered alley wall and a short stretch of plain brick, as on the right side of image 2, lit only by the cool streetlights. The grey 3D layout image is only a guide for the plain right wall; do not copy its colours, plain shapes or figure.
+Handmade 1:6 miniature puppet film still, photographed for real. 16:9. No text, no labels, no grey placeholder shapes.

@@ -1,0 +1,7 @@
+■ CUT 34 영상 (Seedance)
+첨부: 첫 프레임 = CUT34_첫장면_FINAL.png 만 / Audio 1 = CUT34_수빈_여기앉아_FINAL.wav
+설정: 5초, 16:9, 720p
+저장: CUT34_영상.mp4
+편집: 음성 1.5초. 편집에서 원본 음성을 덮는다
+===== 복사 =====
+Keep the faces, proportions, objects, lighting and composition as in the starting image. The girl in the foreground looks at the camera and says the line in audio 1 warmly, lip-synced to audio 1, with an ordinary friendly smile; her head stays still while she speaks. Then her lips close and she turns her head slightly away toward the left, so that the skin below her ear with its tiny stitches stays visible for a moment. The stitches do not move or change. The students behind stay out of focus and move only a little. Locked camera. Nothing creepy. First-person view at a steady eye height: no hands, no body, no shadow and no reflection of the viewer at any time. Quiet classroom chatter. Only the lips and jaw move, slightly, smooth and continuous; the cheeks, nose and face outline do not change. Use audio 1 as the voice exactly; no other voice, no music, no subtitles.

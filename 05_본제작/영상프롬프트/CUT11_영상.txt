@@ -1,5 +1,7 @@
-■ 2단계 영상 (Seedance)
-첨부: 첫 프레임 = CUT11_첫장면.png 만. 음성 없음. 5초, 16:9, 720p
+■ CUT 11 영상 (Seedance)
+첨부: 첫 프레임 = CUT11_첫장면_FINAL.png 만. 음성 없음
+설정: 5초, 16:9, 720p
 저장: CUT11_영상.mp4
+편집: "진짜로 해주면… 소원이 없겠다."(3.4초)를 덮는다. 입이 안 맞아 보이면 음성을 첨부해 다시 생성
 ===== 복사 =====
-Keep the face, proportions, objects, lighting and composition exactly as in the starting image. She sets the doll upright on the table, lets go, looks at it for a moment with a faint wry smile and her lips barely part as if murmuring. Then she leans back. The doll stays perfectly still. Locked camera. A ticking clock. No voice, no music, no subtitles.
+Keep the faces, proportions, objects, lighting and composition as in the starting image. The doll already stands on the table. Her hands slowly loosen and let go of it. She looks at it with the same faint wry smile and murmurs under her breath for about three seconds with very small lip movements, then her lips close. Her head stays in place. The doll stays perfectly still. Locked camera. A ticking clock. No voice, no music, no subtitles.

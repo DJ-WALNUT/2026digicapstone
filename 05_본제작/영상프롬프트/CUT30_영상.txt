@@ -1,0 +1,7 @@
+■ CUT 30 영상 (Seedance)
+첨부: 첫 프레임 = CUT30_첫장면_FINAL.png 만. 음성 없음
+설정: 5초, 16:9, 720p
+저장: CUT30_영상.mp4
+편집: 알람 소리는 편집에서. 프리비즈처럼 일어나 창까지 보는 움직임은 방이 새로 만들어지므로 쓰지 않는다
+===== 복사 =====
+Keep the faces, proportions, objects, lighting and composition as in the starting image. Someone has just woken up and looks at the ceiling. The view starts slightly out of focus, sharpens, and drifts very slightly upward, then stays still, unnaturally calm. Only dust and the morning light move. No new object, furniture, window, mirror, person or doll appears. First-person view at a steady eye height: no hands, no body, no shadow and no reflection of the viewer at any time. Quiet morning room tone, a distant alarm clock. No voice, no music, no subtitles.

@@ -1,0 +1,11 @@
+■ CUT 32 영상 (Seedance)
+첨부: 첫 프레임 = CUT32_첫장면_FINAL.png 만. 음성 없음
+설정: 5초, 16:9, 720p
+저장: CUT32_영상.mp4
+카메라 참고 영상 (시험 통과 후에만): Previs/render/SEQ02_06_골목/CUT32_카메라.mp4
+===== 복사 =====
+Keep the faces, proportions, objects, lighting and composition as in the starting image. The viewer walks straight ahead along the alley at an even, calm pace, with very little bob. The view stays level and keeps looking straight ahead. Leaf shadows sway gently. No person, no doll, no door and no reflecting glass appear. First-person view at a steady eye height: no hands, no body, no shadow and no reflection of the viewer at any time. Morning birds, soft footsteps, distant street ambience. No voice, no music, no subtitles.
+
+
+[카메라 참고 영상을 함께 넣을 때만 맨 앞에 추가]
+Use the reference video only for the camera movement. Do not copy its grey shapes, colours, characters or lighting; everything visible comes from the starting image.
