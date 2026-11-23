@@ -2,11 +2,6 @@
 첨부: 첫 프레임 = CUT05_첫장면_FINAL.png (v3로 교체한 뒤 생성) 만. 음성 없음
 설정: 5초, 16:9, 720p
 저장: CUT05_영상.mp4
-카메라 참고 영상 (시험 통과 후에만): Previs/render/SEQ02_06_골목/CUT05_카메라.mp4
 편집: 발소리는 편집에서. 06으로 넘어가기 전에 자른다
 ===== 복사 =====
 Keep the faces, proportions, objects, lighting and composition as in the starting image. She walks slowly toward the camera with tired, heavy steps, eyes lowered, one hand on the bag strap. The camera moves backward at her walking speed, so she stays about the same size in the frame. Her face stays calm and unchanged, lips closed. Natural walking, two feet, no sliding. Night alley ambience, footsteps. No voice, no music, no subtitles.
-
-
-[카메라 참고 영상을 함께 넣을 때만 맨 앞에 추가]
-Use the reference video only for the camera movement. Do not copy its grey shapes, colours, characters or lighting; everything visible comes from the starting image.

@@ -1,0 +1,17 @@
+[CUT36 v2 재구성]  회색 구도 이미지와 이전 CUT36 이미지는 올리지 않기
+첨부 (이 순서대로 올리기): 1_CUT34_기준.png / 2_C05_수빈_턴어라운드.png
+저장 이름: CUT36_첫장면_v2.png
+합격 기준: 34와 같은 얼굴·빛·자리. 정면으로 카메라를 봄. 입이 다 보임. 배경 인물은 거의 안 보임. 봉제선은 안 보임
+
+===== 아래부터 복사 =====
+The next shot of the same scene as image 1, a few moments later. 16:9. Same woman with exactly the same face, freckles, hair and sweater as image 1, at the same table, in the same low window light, colour and film grain. Image 2 is only a reference for her clothes.
+
+Camera: the viewer has now sat down beside her at the same table, so the camera is at her seated eye height and closer. Close-up with a long lens: her face is slightly right of centre, the hair cropped at the top of the frame, a little of the collar and sweater at the bottom. She has turned to the viewer and looks straight into the lens. Her whole mouth is unobstructed and well visible.
+
+Foreground: a soft blurred edge of a book or fabric at the lower left. Background: a dim wall and one blurred window, strongly out of focus; at most one small unrecognisable blurred figure. No row of students, no blackboard, no mannequins.
+
+Light: the window light stays behind at the right, a thin warm rim on her hair and cheek, the other side of her face in soft shadow but both eyes clearly visible. Restrained muted colour, dark corners.
+
+Expression: an ordinary, kind, small smile with lips closed, held just a little too still. Nothing creepy, no stitches visible, no wound.
+
+First-person view: no hands, no body and no reflection of the viewer. Not a video game, not a character portrait, not a dialogue screen, not a 3D render. No text.

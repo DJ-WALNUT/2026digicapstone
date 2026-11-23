@@ -2,8 +2,8 @@
 첨부: 첫 프레임 = CUT31_첫장면_FINAL.png 만. 음성 없음
 설정: 5초, 16:9, 720p
 저장: CUT31_영상.mp4
-카메라 참고 영상 (시험 통과 후에만): Previs/render/SEQ02_06_골목/CUT31_카메라.mp4
-편집: 앞부분에 "다녀올게."(1.7초), 문 여는 소리. 끝에서 32로 컷
+카메라 참고 영상 (시험 완료: 함께 넣을 수 있으나 뒤쪽에 프리비즈 형태가 섞임): Previs/render/SEQ02_06_골목/CUT31_카메라.mp4
+편집: 앞부분에 "다녀올게."(1.7초), 문 여는 소리. 시험 영상을 약 2.7초에서 잘라 32로 컷
 ===== 복사 =====
 Keep the faces, proportions, objects, lighting and composition as in the starting image. The viewer steps forward slowly out of the doorway, past the door frame, and then turns to the right until the alley stretches ahead into the distance. Smooth, even walking with very little bob. The same concrete wall, poles and morning light throughout. No person, no doll, no mirror and no reflecting glass. First-person view at a steady eye height: no hands, no body, no shadow and no reflection of the viewer at any time. Morning birds, distant street ambience. No voice, no music, no subtitles.
 

@@ -5,6 +5,3 @@
 편집: 거울에 사람이 나타나기 전에 자르고 38A로 컷. 소리가 점점 먹먹해지는 효과는 편집에서
 ===== 복사 =====
 Keep the room, objects, light and composition as in the starting image. The viewer walks slowly and evenly toward the mirror above the sink, a short distance only, keeping the mirror in view; the camera stays at the same angle to the mirror. The mirror keeps reflecting only the empty room: no person, no face, no doll and no new object appears in it. First-person view: no hands, no body, no shadow and no reflection of the viewer at any time. Quiet muffled room tone. No voice, no music, no subtitles.
-
-[카메라 참고 영상을 함께 넣을 때만 맨 앞에 추가] (시험 통과 후에만: Previs/render/SEQ06_07_강의실/CUT37A_카메라.mp4)
-Use the reference video only for the camera movement. Do not copy its grey shapes, colours, characters or lighting; everything visible comes from the starting image.
