@@ -1,0 +1,6 @@
+[TEST E4: 완성한 CUT08a 이미지를 "첫 프레임"으로 넣기]
+첨부: 첫 프레임 = CUT08a_첫장면.png / Audio 1 = audio/CUT08_서연_너나닮았다_FINAL.wav  (다른 이미지는 넣지 않음) · 5초 · 16:9
+첫 프레임과 음성을 함께 못 넣는 모드라면, 모든 자료 참조 모드에서 Image 1로 넣고 아래 첫 줄 앞에 "Start exactly from image 1." 을 붙이기
+
+===== 아래 복사 =====
+Keep the face, proportions, hands, doll, lighting and framing exactly as in the starting image for the whole shot. The woman speaks the line in audio 1 quietly to herself, lip-synced to audio 1. Small, soft, continuous mouth movements; the jaw opens only slightly, lips relaxed. Faint amused smile, one natural blink. Her fingers stay wrapped around the doll and the doll does not move. Only a very slow push-in. Use audio 1 as her voice exactly; no other voice, no music, no subtitles.

@@ -85,3 +85,7 @@ $RECYCLE.BIN/
 .idea/
 *.swp
 *~
+
+# TTS 비교 샘플 (로컬에서 듣기)
+03_대본/tts_비교/
+03_대본/tts_EL/

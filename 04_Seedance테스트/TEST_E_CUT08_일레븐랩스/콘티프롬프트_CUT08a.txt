@@ -1,0 +1,10 @@
+[CUT 08a 첫 장면 이미지: Gemini 또는 ChatGPT]
+첨부: Image 1 = C01_얼굴정면_크롭.png / Image 2 = C02_옅은미소_크롭.png / Image 3 = C01_전신34_크롭.png
+      Image 4 = C03_인형정면_크롭.png / Image 5 = 01_기준에셋_결과물/L02_골목_밤.png
+
+===== 아래 복사 =====
+Create one 16:9 film still of the same woman puppet shown in images 1, 2 and 3. Copy her face exactly from images 1 and 2: short round face, wide forehead, large dark eyes set wide apart and low on the face, tiny rounded nose, very small mouth close under the nose, short chin, freckles, orange-pink cheeks, messy high dark-brown bun. Do not lengthen the face, nose or chin. Olive fleece hoodie from image 3.
+
+Close-up, her face turned almost straight to the camera, eye level, head and shoulders filling about two thirds of the frame height, her whole mouth unobstructed. Expression as in image 2: curious soft smile, lips closed. In the lower foreground, both hands grip the small felt doll from image 4 around its waist, fingers wrapped around its body. We see only the back of the doll's head and hair bun, out of focus, below her chin, facing her. The doll is about the size of her hand. It is held, not standing on a palm.
+
+Background: the night alley and red-brick house door with warm porch lamp from image 5, softly out of focus. Handmade 1:6 miniature puppet look. No text, no border, no collage.

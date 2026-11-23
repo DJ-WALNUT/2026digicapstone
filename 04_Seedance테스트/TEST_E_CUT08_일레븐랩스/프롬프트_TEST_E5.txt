@@ -1,0 +1,9 @@
+[TEST E5] 첨부: 첫 프레임 = CUT08_첫장면.png / Audio 1 = audio/CUT08_서연_너나닮았다_FINAL.wav · 5초 · 16:9
+첫 프레임과 음성을 함께 못 넣으면 Image 1로 넣고 첫 줄 앞에 "Start exactly from image 1." 추가
+
+===== 아래 복사 =====
+Keep her face, proportions, hands, doll, lighting and composition as in the starting image. Cinematic night scene with warm porch light against cool blue shadow, shallow depth of field.
+
+At first she studies the doll in silence, tilts her head very slightly, and a faint amused smile appears. Then she murmurs the line in audio 1 to the doll, lip-synced to audio 1, with small, soft, continuous mouth movements, lips relaxed. She keeps looking at the doll, not at the camera. Her fingers stay wrapped around the doll; the doll stays perfectly still. Loose hair strands move gently in the night air.
+
+Slow, subtle push-in toward the two faces. Use audio 1 as her voice exactly; no other voice, no music, no subtitles. Quiet night ambience only.

@@ -1,0 +1,10 @@
+[CUT 08 첫 장면 이미지: 이전 구도 유지 + 얼굴만 기준에셋대로]
+첨부: Image 1 = 구도참고_C2.png (또는 구도참고_E1.png) / Image 2 = C02_비스듬_크롭.png
+      Image 3 = C01_얼굴정면_크롭.png / Image 4 = C03_인형정면_크롭.png
+
+===== 아래 복사 =====
+Edit image 1. Keep its camera angle, framing, pose, hand grip, doll position and size, alley background, depth of field and warm porch light against blue night exactly as they are.
+
+Change only the woman's head: replace her face with the character in images 2 and 3, seen from the same three-quarter angle as image 1. Match image 2 for the proportions at this angle: short round face, tiny nose, very small mouth close under the nose, short soft chin, big dark eyes, freckles, orange-pink cheeks. Do not lengthen the face, nose or chin. Faint, curious smile with lips closed, looking at the doll. Keep the messy high dark-brown bun and the rim light on her hair.
+
+The doll is the felt doll in image 4, about 15 cm tall, held with fingers wrapped around its body. Her mouth must not be covered. 16:9, no text.

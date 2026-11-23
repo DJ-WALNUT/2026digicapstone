@@ -1,0 +1,8 @@
+[1단계: 이미지 1회 보정]  첨부: Image 1 = CUT08_첫장면.png / Image 2 = C02_비스듬_크롭.png
+===== 복사 =====
+Edit image 1. Change only the woman's face shape and keep everything else identical. Match the face in image 2: narrower cheeks and jaw, a slightly smaller face relative to the hair, a small clear chin, level head. Keep the faint smile, gaze toward the doll, freckles, lighting and framing.
+→ CUT08_첫장면_v2.png
+
+[2단계: 영상]  첨부: 첫 프레임 = CUT08_첫장면_v2.png / Audio 1 = 같은 음성 · 5초 · 16:9 · 가능하면 1080p
+===== 복사 =====
+Keep her face, head angle, proportions, hands, doll, lighting and composition as in the starting image. Her head stays level and almost still; her eyes stay open on the doll during the line. She murmurs the line in audio 1, lip-synced to audio 1. Only the lips and jaw move, slightly; the cheeks, nose and face outline do not change. Loose hair strands move gently. Very slow, minimal push-in. Use audio 1 as her voice exactly; no other voice, no music, no subtitles. Quiet night ambience only.
