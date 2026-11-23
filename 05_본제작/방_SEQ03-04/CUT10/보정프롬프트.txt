@@ -1,0 +1,6 @@
+[CUT 10 보정] 첨부: Image 1 = CUT10_첫장면.png / Image 2 = 1_L01_방_밤.png → 저장: CUT10_첫장면_v2.png
+===== 복사 =====
+Edit image 1. Keep the camera, room, light, the woman's face and hoodie, and the worktable exactly as they are. Make only two changes.
+1. Move the mannequin with the unfinished, pinned jacket back to its original place in image 2: between the shelf and the window desk, at the same size as the mannequin in image 2. Remove it from the right side and restore the desk lamp, wall sketches and mirror there as in image 2.
+2. Move the woman and her chair slightly to the right and make her slightly smaller, so that she sits in front of the window desk and the mannequin is clearly visible to the left of her head, not hidden.
+No text. 16:9.

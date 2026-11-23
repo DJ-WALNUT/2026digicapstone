@@ -1,0 +1,15 @@
+[CUT 23]  메모: 음성은 편집에서 덮음
+
+■ 1단계 이미지 (Gemini/ChatGPT)
+첨부 순서: 1_L01_방_아침.png / 2_구도_CUT23.png / 3_C01_주인공_턴어라운드.png / 4_C04a_STAGE2_전신_크롭.png / 5_완성의상_크롭.png
+저장: CUT23_첫장면.png
+===== 복사 =====
+Edit the room image. Keep its camera, room, furniture and light exactly as they are. The grey 3D layout image is only a guide for camera, positions and sizes; do not copy its colours, plain shapes or faces. (image 2)
+Add the young woman puppet of the character sheet (short face, freckles, big dark eyes, tiny nose, messy high dark-brown bun, olive fleece hoodie, charcoal trousers) from image 3, standing at the left as in image 2, holding a finished folder, walking out toward the camera's left, satisfied, not looking at the doll. On the worktable stands the much larger 35 cm doll of image 4 (ignore the hand holding it), at the position and size in image 2, beside a tall stack of finished work. Finished jacket of image 5 on the mannequin.
+Handmade 1:6 miniature puppet film still, photographed for real. 16:9. No text, no labels, no grey placeholder shapes.
+
+■ 2단계 영상 (Seedance)
+첨부: 첫 프레임 = CUT23_첫장면.png 만. 음성 없음. 5초, 16:9, 1080p
+저장: CUT23_영상.mp4
+===== 복사 =====
+Keep the face, proportions, objects, lighting and composition exactly as in the starting image. She walks out of frame to the left without looking back. The camera stays on the room. The doll stays perfectly still. Locked camera. Footsteps, a door opening. No voice, no music, no subtitles.

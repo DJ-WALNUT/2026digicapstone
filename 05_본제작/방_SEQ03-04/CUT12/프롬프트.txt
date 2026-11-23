@@ -1,0 +1,15 @@
+[CUT 12]  메모: 머리만 몇 도. 크게 돌면 실패
+
+■ 1단계 이미지 (Gemini/ChatGPT)
+첨부 순서: 1_구도_CUT12.png / 2_L01_방_밤.png / 3_C03_인형정면_크롭.png
+저장: CUT12_첫장면.png
+===== 복사 =====
+Create one film still with the camera and doll size of image 1, in the night room of image 2 with the lights off: only dim blue moonlight from the window. The grey 3D layout image is only a guide for camera, positions and sizes; do not copy its colours, plain shapes or faces. (image 1)
+The felt doll of image 3 stands on the worktable facing the camera, face copied exactly, neutral. The background is dark and out of focus.
+Handmade 1:6 miniature puppet film still, photographed for real. 16:9. No text, no labels, no grey placeholder shapes.
+
+■ 2단계 영상 (Seedance)
+첨부: 첫 프레임 = CUT12_첫장면.png 만. 음성 없음. 5초, 16:9, 1080p
+저장: CUT12_영상.mp4
+===== 복사 =====
+Keep the face, proportions, objects, lighting and composition exactly as in the starting image. Absolute stillness for several seconds. Then the doll's head turns very slightly, a few degrees, in one short stiff movement, and stops. Eyes, mouth and body do not move. Locked camera. Silence, then one tiny thread creak. No voice, no music, no subtitles.

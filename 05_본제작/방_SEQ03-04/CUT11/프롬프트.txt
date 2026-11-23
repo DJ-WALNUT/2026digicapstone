@@ -1,0 +1,15 @@
+[CUT 11]  메모: 음성은 편집에서 덮음. 얼굴이 숙여져 있어 립싱크 생략
+
+■ 1단계 이미지 (Gemini/ChatGPT)
+첨부 순서: 1_구도_CUT11.png / 2_L01_방_밤.png / 3_CUT08_첫장면_v2.png / 4_C02_비스듬_크롭.png / 5_C03_인형정면_크롭.png
+저장: CUT11_첫장면.png
+===== 복사 =====
+Create one film still with the camera, positions and sizes of image 1, in the night room of image 2. The grey 3D layout image is only a guide for camera, positions and sizes; do not copy its colours, plain shapes or faces. (image 1)
+The woman has the face and proportions of images 3 and 4. She leans over the worktable, tired, setting the small 15 cm felt doll of image 5 down on it with both hands, fingers around its body. Her head is tilted down toward the doll, a faint wry smile, lips closed, hair partly over her cheek. A small alarm clock stands in the foreground, its face turned away. Warm desk lamp, cool window.
+Handmade 1:6 miniature puppet film still, photographed for real. 16:9. No text, no labels, no grey placeholder shapes.
+
+■ 2단계 영상 (Seedance)
+첨부: 첫 프레임 = CUT11_첫장면.png 만. 음성 없음. 5초, 16:9, 1080p
+저장: CUT11_영상.mp4
+===== 복사 =====
+Keep the face, proportions, objects, lighting and composition exactly as in the starting image. She sets the doll upright on the table, lets go, looks at it for a moment with a faint wry smile and her lips barely part as if murmuring. Then she leans back. The doll stays perfectly still. Locked camera. A ticking clock. No voice, no music, no subtitles.

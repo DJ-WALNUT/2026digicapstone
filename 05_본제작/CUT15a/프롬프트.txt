@@ -1,0 +1,12 @@
+[CUT 15a 서연 표정 + 립싱크]  대사: "너, 진짜야? …고마워." (음성 2.8초)
+■ 1단계 이미지 (Gemini/ChatGPT)  첨부: 1~6번 파일을 번호 순서대로 → CUT15a_첫장면.png
+===== 복사 =====
+Create one 16:9 film still with the camera, positions and sizes of image 1. The grey 3D layout image is only a guide for camera, positions and sizes; do not copy its colours, plain shapes or faces. Early morning: the woman sits at her front worktable in a medium close-up, the small doll stands on the table in front of her, the finished jacket is on the mannequin behind her at right.
+
+The woman is the same character as in images 2 and 3: match image 2 for face shape, proportions, freckles, blush, hair and hoodie. Do not enlarge the face or eyes, do not round the cheeks, do not lengthen the nose or chin. Three-quarter view with her whole mouth unobstructed. Expression: quietly astonished, eyes wide, eyebrows raised, lips just parted, looking toward the jacket on the mannequin. She has just woken up; hair a little messier. Both hands rest near the table edge, not touching the doll.
+
+The doll is exactly the felt doll of image 4, about 15 cm tall, standing on the table and seen from behind at three-quarter view, clearly smaller than her head. The jacket is the finished jacket of image 6, with neat stitching and belt. The room is the room of image 5: warm golden morning light from the window, wall of fashion sketches, soft focus. Handmade 1:6 miniature puppet look. No text, no labels.
+
+■ 2단계 영상 (Seedance)  첨부: 첫 프레임 = CUT15a_첫장면.png / Audio 1 = CUT15_서연_진짜야고마워_FINAL.wav · 5초(6초 가능하면 6초) · 16:9 · 1080p  → CUT15a_영상.mp4
+===== 복사 =====
+Keep her face, proportions, doll, jacket, lighting and composition as in the starting image. Her gaze moves from the jacket to the doll, with only a small, level head turn. Then she murmurs the line in audio 1 to the doll, lip-synced to audio 1: the first half in quiet disbelief, the second half with a small warm smile. Only the lips and jaw move, slightly, smooth and continuous; the cheeks, nose and face outline do not change. Her eyes stay open during the line. The doll stays perfectly still. Dust drifts in the morning light. Very slow, minimal push-in. Use audio 1 as her voice exactly; no other voice, no music, no subtitles. Soft morning room tone.
