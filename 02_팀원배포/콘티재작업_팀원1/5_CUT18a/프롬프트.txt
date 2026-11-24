@@ -1,0 +1,16 @@
+[CUT18a] 새 채팅에서 처음부터 만들기 (18b, 18c의 기준이므로 먼저 확인받기)
+첨부 (이 순서대로 올리기): 1_방_아침.png / 2_C03_인형_각도.png
+저장 이름: CUT18a_첫장면_v2.png
+장면: 며칠이 지나는 빠른 몽타주의 첫 장면. 인형 옆에 과제 하나.
+합격 기준: 인형은 왼쪽 1/3, 오른쪽에 과제를 쌓을 빈자리. 인형 위로 빈 공간이 넉넉함(b, c에서 인형이 커짐). 바늘꽂이가 인형 키의 절반 정도. 방 전체가 보이지 않음
+
+===== 아래부터 복사 =====
+A frame from a live-action-style stop-motion feature film, shot on a real handmade 1:6 miniature set. 16:9. Use image 1 only for the place, materials and morning light: do not copy its camera. The doll is exactly the felt doll of image 2, wearing white sneakers.
+
+Camera: locked on a tripod, low, just above the worktable and close to it, looking across the table toward the window. Long lens, shallow focus.
+
+Subject: the 15 cm doll stands on the worktable in the left third of the frame, full body from bun to shoes, about 40 percent of the frame height, with generous empty space above its head. Body turned slightly to the right in three-quarter view. Neutral face, lips closed, natural soft contact shadow. Near its shoes, one red tomato pincushion about half the doll's height. In the right half of the table only one thin folder of finished work lies flat; the rest is empty wood.
+
+Foreground: a strongly blurred strip of measuring tape crosses the lower right corner. Background: the window and the mannequin in its finished belted beige jacket, strongly out of focus. The whole room must not be visible: no bed, no ceiling, no laptop, no person.
+
+Light: low morning sun from the window, a thin warm rim on the doll, long shadow toward the camera, dark corners. Muted amber and brown, gentle film grain. Not evenly lit, not glossy, not saturated. Only one doll. Not a product photo, not a 3D render. No text.

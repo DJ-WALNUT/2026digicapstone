@@ -1,0 +1,7 @@
+■ CUT 12 영상 (Seedance)
+첨부: 1_첫프레임_CUT12.png (첫 프레임) / 음성 올리지 않음
+설정: 5초, 16:9, 720p
+저장: CUT12_영상.mp4 → 05_본제작/CUT12/
+편집: 고개가 움직인 직후에 자른다. 움직임이 크거나 카메라를 정면으로 보면 버린다
+===== 복사 =====
+Keep the faces, proportions, objects, lighting, focus and composition exactly as in the starting image. Absolute stillness for three seconds. Then the doll's head turns by only a few degrees, in one short stiff movement, and stops. The eyes stay fixed in the head; mouth, arms and body do not move. Locked camera. Silence, then one tiny thread creak. No voice, no music, no subtitles.

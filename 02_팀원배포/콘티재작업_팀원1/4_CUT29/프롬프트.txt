@@ -1,0 +1,12 @@
+[CUT29] 새 채팅에서 만들기 (구도는 좋음. 인형이 창밖을 보는 것만 문제)
+첨부 (이 순서대로 올리기): 1_CUT29_카메라와_어둠.png / 2_CUT28_인형방향.png
+저장 이름: CUT29_첫장면_v3.png
+장면: 불 꺼진 방에 엎드린 서연과 창가 인형의 두 실루엣.
+합격 기준: 인형의 몸과 신발 앞코가 카메라 쪽(등에 늘어진 모자가 보이면 실패). 눈코입은 안 보임. 구도와 어둠은 1번과 같음. 두 실루엣이 구분됨
+
+===== 아래부터 복사 =====
+Create a new film still with the same camera, room, sleeping woman, mannequin and deep blue darkness as image 1. 16:9. The only difference is the doll at the window: in image 1 it wrongly shows its back. In the new still it stands in the same place at the same size, but it has turned around to look into the room, like the doll at the window in image 2.
+
+We see the doll from the front: the two drawstrings and the front pocket of the hoodie are barely visible, and the toes of both shoes point toward the camera. No hood hangs on its back toward us. The window light comes from behind it, so it is an almost black silhouette with a thin blue outline, and its face is lost in shadow: no eyes, no mouth, no facial features.
+
+The woman stays asleep with her head on the worktable, dark against the faint light, also without a visible face. The two dark shapes are clearly separate and echo each other: same bun, same outline. The mannequin with the jacket is barely visible. Nearly everything else sinks into black. Gentle film grain, handmade 1:6 miniature puppet film, photographed for real. Not a 3D render. No text.

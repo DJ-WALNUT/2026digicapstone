@@ -2,5 +2,6 @@
 첨부: 첫 프레임 = CUT13_첫장면_FINAL.png 만. 음성 없음
 설정: 5초, 16:9, 720p
 저장: CUT13_영상.mp4
+편집: 멈춘 뒤 시선이 오른쪽에 고정되면 자르고 14로 잇는다. 14는 서연이 보는 장면이 된다
 ===== 복사 =====
-Keep the faces, proportions, objects, lighting and composition as in the starting image. She walks sleepily two steps toward the worktable and stops, seen from behind. The doll stays perfectly still. Locked camera. Soft morning room tone, soft footsteps. No voice, no music, no subtitles.
+Keep the faces, proportions, objects, lighting, focus and composition exactly as in the starting image. She takes one sleepy step, lowers her hand from her eye so that both eyes are open, then stops beside the bed. Her eyes look to the right, past the camera, and stay there. Her lips stay closed and her head barely moves. No doll and no new object appears. Locked camera. Soft morning room tone, one soft footstep. No voice, no music, no subtitles.

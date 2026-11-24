@@ -1,0 +1,13 @@
+[CUT18b] 새 채팅. 합격한 새 18a 파일을 기준으로 만들기
+첨부 (이 순서대로 올리기): 새로 만든 CUT18a_첫장면_v2.png / 2_방_밤.png / 3_STAGE1_인형.png
+저장 이름: CUT18b_첫장면_v3.png
+장면: 며칠 뒤 밤. 인형이 조금 커지고 과제가 늘었다.
+합격 기준: 18a와 번갈아 봤을 때 책상·창·바늘꽂이가 움직이지 않음. 인형 발 위치가 같고 키가 18a의 약 1.3배(1.5배를 넘으면 실패). 과제가 18a보다 많음
+
+===== 아래부터 복사 =====
+Edit image 1. Keep the camera, lens, framing, worktable, pincushion size and position exactly the same, as if the camera never moved. 16:9. Four changes only.
+1) It is now night, lit like image 2: one warm desk lamp out of frame, dark blue window out of focus, deep shadows. Do not copy the camera of image 2.
+2) Replace the doll with the doll of image 3 (ignore the hand holding it). Its shoes stand on exactly the same spot and its body is turned the same way. It is only one third taller than the doll in image 1: if that doll is 3 units tall, this one is 4 units tall. The pincushion now reaches a little over a third of its height. Neutral face, lips closed. The doll is lit by the scene and casts a natural shadow; it must not look pasted in.
+3) In the right half of the table there is now a medium stack of folders and sketchbooks, about half the height of the doll.
+4) The mannequin in the blurred background wears the unfinished basted jacket of image 2.
+Only one doll, no person. Handmade 1:6 miniature puppet film, photographed for real, muted colour, gentle film grain. Not a 3D render. No text.

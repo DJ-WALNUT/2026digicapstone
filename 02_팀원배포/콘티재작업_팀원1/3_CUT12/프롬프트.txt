@@ -1,0 +1,20 @@
+[CUT12] 새 채팅에서 처음부터 만들기
+첨부 (이 순서대로 올리기): 1_밤_책상.png / 2_C03_인형_각도.png
+저장 이름: CUT12_첫장면_v3.png
+장면: 불 꺼진 방. 영상에서는 인형의 고개가 아주 조금 움직인다.
+합격 기준: 인형이 오른쪽에 치우치고 비스듬히 섬(가운데 정면이면 실패). 얼굴이 C03과 같고 무표정. 바늘꽂이가 인형 키의 절반 정도. 어둡지만 두 눈은 보임. 재킷과 마네킹 없음
+
+===== 아래부터 복사 =====
+A frame from a live-action-style stop-motion feature film, shot on a real handmade 1:6 miniature set. 16:9. The place is the worktable of image 1 with the lamp switched off: do not copy the camera of image 1. The doll is exactly the felt doll of image 2: same face, yarn hair, hoodie and trousers.
+
+Camera: resting on the tabletop, slightly below the doll's eye level. Long macro lens, very shallow focus.
+
+Subject: the small 15 cm doll stands in the right third of the frame, seen from the knees up to the bun, filling about two thirds of the frame height. Its body is turned to the left in three-quarter view and its eyes look off to the left, past the camera. Both eyes are visible. Neutral face, lips closed. Arms hang naturally.
+
+Foreground: at the lower left, the dark, strongly blurred edge of folded cloth and a scissors handle cut across the corner. Just behind the doll at the right, half hidden and out of focus, one red tomato pincushion about half the height of the whole doll. Nothing else is sharp.
+
+The left half of the frame is deep, empty darkness. Background plain and strongly out of focus: no window, no mannequin, no jacket, no person.
+
+Light: only weak cool moonlight from behind at the left. A thin blue rim on the loose yarn hair and the edge of the cheek; the near side of the face is in shadow, with one small catchlight in each eye. The face is dim but readable. Restrained, nearly colourless blue-black, gentle film grain. Not evenly lit, not glossy.
+
+Only one doll. Not centred, not a frontal product photo, not a toy advertisement, not a 3D render. No text.

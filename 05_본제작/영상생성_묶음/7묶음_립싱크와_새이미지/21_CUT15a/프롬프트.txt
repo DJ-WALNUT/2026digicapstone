@@ -1,0 +1,7 @@
+■ CUT 15a 영상 (Seedance)
+첨부: 1_첫프레임_CUT15a.png / 2_CUT15_서연_진짜야고마워_FINAL.wav (Audio 1)
+설정: 5초, 16:9, 720p
+저장: CUT15a_영상.mp4 → 05_본제작/CUT15a/
+편집: 편집에서 원본 음성(2.8초)을 덮는다. 15b로 잇는다
+===== 복사 =====
+Keep the faces, proportions, objects, lighting, focus and composition exactly as in the starting image. Her eyes move from the right down to the doll in the foreground; her head stays in place. Then she murmurs the line in audio 1 to the doll, lip-synced to audio 1: the first half in quiet disbelief, the second half with a small warm smile. Her eyes stay open during the line. The blurred doll stays perfectly still. Dust drifts in the light. Locked camera. Soft morning room tone. Only the lips and jaw move, slightly, smooth and continuous; the cheeks, nose and face outline do not change. The mouth never opens wide and the lips never push forward. Use audio 1 as the voice exactly; no other voice, no music, no subtitles.

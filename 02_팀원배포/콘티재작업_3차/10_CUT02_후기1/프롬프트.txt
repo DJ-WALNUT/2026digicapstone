@@ -1,0 +1,7 @@
+[CUT02_후기1] 09가 합격한 뒤 만들기. 09의 새 CUT01_게시물_v2.png를 함께 올리기
+첨부 (이 순서대로 올리기): 1_CUT02_현재본.png / 새로 만든 CUT01_게시물_v2.png
+저장 이름: CUT02_후기1_v2.png
+합격 기준: 세로 9:16. 인형이 새 01과 같은 인형. 나머지는 그대로
+
+===== 아래부터 복사 =====
+Edit image 1. Keep the desk, window, lamp, books, light and framing exactly the same. Vertical 9:16. Change only the doll: it becomes the braided doll with glasses and the mustard cardigan of image 2, sitting at the same place and size as a still object. Copy only the doll from image 2, none of its interface or text. No text, no interface, no people.

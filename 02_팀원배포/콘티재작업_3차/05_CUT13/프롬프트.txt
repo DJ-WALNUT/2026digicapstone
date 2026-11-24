@@ -1,0 +1,15 @@
+[CUT13] 막 일어난 서연이 걷다가 멈춘다. 다음 14가 서연이 보는 장면처럼 이어진다
+첨부 (이 순서대로 올리기): 1_CUT19_침대와_벽.png / 2_CUT24_아침빛과_얼굴.png / 3_C01_서연_턴어라운드.png
+저장 이름: CUT13_첫장면_v2.png
+합격 기준: 서연이 왼쪽에 치우치고 반쯤 걸어 나오는 자세. 차렷 자세가 아님. 얼굴이 24와 같은 사람. 인형, 마네킹, 재킷이 화면에 없음
+
+===== 아래부터 복사 =====
+A frame from a live-action-style stop-motion feature film, shot with a long lens on a real handmade 1:6 miniature set. 16:9. Morning. The place is the left wall and the bed of image 1, but in the warm early morning light and colour of image 2, and the bed is empty with the olive blanket thrown back. Do not copy the sleeping woman or the doll of image 1. The woman is exactly the person of images 2 and 3, with the full outfit of image 3.
+
+Camera: low, across the worktable, looking toward the bed. Long lens, shallow focus.
+
+Subject: she has just got out of bed and is in mid-step toward the right, seen from the hips up in three-quarter view, in the left third of the frame. One shoulder is lower than the other, her bun is messy from sleep, one hand rubs the corner of her eye, the other hangs loosely. The eye that is not covered is half open and looks to the right. Lips closed. She is sleepy and has not noticed anything yet. Natural weight on one leg, never standing straight.
+
+Foreground: at the bottom right, dark strongly blurred pattern papers and a pincushion on the table edge. The right half of the frame is quiet: dim wall, falling into shadow. Background out of focus.
+
+Light: low sun from the right, a warm edge on her face and sleeve, a soft patch of window light on the wall behind her. No doll, no mannequin, no jacket, no window in the frame. One woman only, five fingers on each hand. Muted restrained colour, dark corners, gentle film grain. Not evenly lit, not glossy, not saturated. Not a video game, not a character portrait, not a 3D render. No text.

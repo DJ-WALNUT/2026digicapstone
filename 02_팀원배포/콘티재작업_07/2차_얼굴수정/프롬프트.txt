@@ -1,0 +1,16 @@
+[CUT07] 얼굴만 수정
+첨부 (이 순서대로 올리기): 1_CUT07_v2.png / 2_CUT08b_인형얼굴.png / 3_C03_눈_확대.png
+비율: 가로 16:9
+저장 이름: 결과물/CUT07_첫장면_v3.png
+합격 기준: 흰자와 갈색 눈동자, 윗속눈썹이 있음. 얼굴이 08b와 같은 인형. 자세와 나머지 화면은 v2 그대로
+
+===== 아래부터 복사 =====
+Edit image 1. Keep the camera, framing, pose, steps, wall, plants, light, clothes and every other part exactly the same. Change only the doll's face and hair so that it is exactly the same doll as in image 2, seen from the same angle.
+
+Eyes: replace the small solid black eyes with the eyes of image 3: larger, almond-round, with clearly visible white on both sides, a big dark brown iris with a warm amber lower edge, one small soft highlight, a dark upper lash line with a small flick at the outer corner, and thin brown brows. The eyes are about one and a half times as large as now, look in the same direction as now, and stay still and empty.
+
+Face: the same soft wool-felt skin, tiny nose, small closed mouth and round pink cheeks as image 2, with the small mole below the eye on the outer side. Same head size, same tilt, same face direction as in image 1.
+
+Hair: a few thick dark brown yarn strands hang loose around the face, like image 2; the bun stays where it is.
+
+The doll is lit only by the scene of image 1: warm light from the porch on one side, soft shadow on the other. It must not look pasted in. Sitting limply, closed lips, no emotion. No hand, no person, no text. Not a 3D render.

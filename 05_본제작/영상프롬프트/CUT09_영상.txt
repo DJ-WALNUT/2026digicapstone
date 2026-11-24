@@ -1,7 +1,8 @@
-■ CUT 09 영상 (Seedance)
+■ CUT 09 영상 2차 (Seedance)
 첨부: 첫 프레임 = CUT09_첫장면_FINAL.png 만. 음성 없음
 설정: 5초, 16:9, 720p
-저장: CUT09_영상.mp4
+저장: CUT09_영상_v2.mp4
 편집: 문 닫히는 소리는 편집에서. 빈 문 앞을 1~2초 남긴다
+1차 문제: 1.75초부터 나무 문이 나오고 손잡이가 두 개였다가 좌우가 바뀜. 2차도 어긋나면 v1의 1.7초까지만 쓴다
 ===== 복사 =====
-Keep the faces, proportions, objects, lighting and composition as in the starting image. She walks through the open door into the house without looking back, and the door closes behind her. After that nothing moves: the closed door, the empty steps and the porch light remain. Locked camera. Night ambience, a door closing. No voice, no music, no subtitles.
+Keep the faces, proportions, objects, lighting and composition as in the starting image. She walks through the doorway into the house without looking back. Then the house door swings shut once, smoothly. The door is a dark charcoal metal door with a panel of narrow vertical ribs and one single round silver knob on its left side; its hinges are on the right, and it closes toward the left side of the frame. It is not a wooden door and has no square panels. The knob, hinges and door design never change. After that nothing moves: the closed dark door, the empty steps and the porch light remain. Locked camera. Night ambience, a door closing. No voice, no music, no subtitles.

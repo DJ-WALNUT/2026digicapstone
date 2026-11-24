@@ -1,0 +1,17 @@
+[CUT07] 새 채팅에서 처음부터. 옛 CUT07(서 있는 인형)은 올리지 않기
+첨부 (이 순서대로 올리기): 1_CUT09_현관과_빛.png / 2_C03_앉은자세.png / 3_C03_인형_얼굴과_옷.png
+비율: 가로 16:9
+저장 이름: 결과물/CUT07_첫장면_v2.png
+장면: 서연이 현관 계단 구석에 놓인 인형을 발견한다.
+합격 기준: 힘없이 벽에 기대앉음(서 있지 않음). 얼굴이 C03과 같고 입이 다물림. 오른쪽에 치우침. 사람과 손이 없음
+
+===== 아래부터 복사 =====
+A frame from a live-action-style stop-motion feature film, shot with a long lens on a real handmade 1:6 miniature set. 16:9. Late night, at the house entrance of image 1: use image 1 only for the concrete steps, brick wall, plants, warm porch light and cold blue alley; do not copy its camera and do not include its woman. The doll is exactly the felt doll of images 2 and 3: same face, yarn bun, olive hoodie, dark trousers, white sneakers.
+
+Camera: the point of view of someone standing nearby and looking down at a gentle angle, about 25 degrees. Medium close shot, shallow focus.
+
+Subject: the 15 cm doll has been left in the corner where the lowest concrete step meets the brick wall, in the right third of the frame, full body, about 45 percent of the frame height. It sits like a limp lifeless toy someone put down: back slumped against the wall, legs straight out on the step, arms hanging loosely with hands resting on the stone, head tipped slightly to one side by its own weight. Its face is readable in three-quarter view, neutral, lips closed, large eyes with visible white and a brown iris exactly as in image 3, looking at nothing. Natural contact shadow.
+
+Foreground: dark strongly blurred plant leaves cover the lower left corner. A few dry leaves lie on the step. The left half is quiet: the step edge falling away into the dark, out-of-focus blue alley.
+
+Light: one warm porch lamp above, out of frame, catches the doll's hair and one side of its face; the other side falls into soft shadow, the corners stay dark. Only one doll. No person, no hand, no bag. Muted restrained colour, gentle film grain. Not evenly lit, not glossy, not saturated. Not a product photo, not a video game, not a 3D render. No text.

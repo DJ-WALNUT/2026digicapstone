@@ -1,0 +1,20 @@
+[CUT23] 새 채팅에서 처음부터 만들기
+첨부 (이 순서대로 올리기): 1_방_아침.png / 2_STAGE2_인형.png / 3_C01_서연_뒷모습과_옷.png
+저장 이름: CUT23_첫장면_v3.png
+장면: 서연이 인형을 보지도 않고 카메라 옆을 지나 나간다. 커진 인형이 책상에 남아 있다.
+합격 기준: 선명한 것은 인형 하나. 서연은 왼쪽 앞에 흐리게 잘려 얼굴이 안 보임. 인형이 바늘꽂이보다 4배 넘게 큼. 방 전체가 한눈에 보이지 않음
+
+===== 아래부터 복사 =====
+A frame from a live-action-style stop-motion feature film, shot on a real handmade 1:6 miniature set. 16:9. Use image 1 only for the place, furniture, materials and morning light: do not copy its camera, and do not copy its small doll. The doll is exactly the one in image 2 (ignore the hand holding it). The woman wears the clothes of image 3.
+
+Camera: low, just above the surface of the worktable and close to it, looking across the table toward the window. Long lens, shallow focus.
+
+Main subject: the doll of image 2, 35 cm tall, standing on the worktable in the right third of the frame, the only thing in sharp focus. Its full body is visible from bun to shoes and fills about two thirds of the frame height. Body turned slightly to the left in three-quarter view, arms hanging naturally, not a stiff front pose. Its face is turned toward the place where the woman is leaving. Neutral, lips closed. Beside its shoes lies one red tomato pincushion that reaches only its shins: the doll is more than four times as tall as the pincushion. Behind it, a tall stack of finished work, partly hidden.
+
+Foreground: at the far left the woman has already turned away from the table and is walking out past the camera. Only a large, strongly blurred, dark part of her is in the frame: an olive hoodie sleeve and shoulder, and a hand holding a brown folder. Her head is above the frame: no face. She covers less than a quarter of the frame.
+
+Background: the window and the mannequin with the finished belted beige jacket, strongly out of focus. The centre of the frame, between the woman and the doll, is quiet and empty. The whole room must not be visible: no bed, no ceiling.
+
+Light: low morning sun from the window behind the doll, a thin warm rim on its hair and shoulder, its face in soft shadow but readable, a long soft shadow on the table toward the camera, dark corners. Muted amber, brown and olive, gentle film grain. Not evenly lit, not glossy, not saturated.
+
+Only one doll. Not a product photo, not a video game, not a 3D render. No text.

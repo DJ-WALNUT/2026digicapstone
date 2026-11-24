@@ -1,0 +1,20 @@
+[CUT19] 새 채팅에서 처음부터 만들기
+첨부 (이 순서대로 올리기): 1_방_밤.png / 2_C03_인형_뒷모습.png / 3_C01_서연_뒷모습과_옷.png
+저장 이름: CUT19_첫장면_v3.png
+장면: 과제를 인형 옆에 던져 두고 서연은 등을 돌려 눕는다. 인형의 뒷모습 너머로 본다.
+합격 기준: 앞의 인형은 뒷모습만 크고 흐리게. 서연은 뒤쪽 침대에서 등을 보이고 옆으로 누움. 이불을 덮어 신발이 안 보임. 쓰러진 사람처럼 보이지 않음. 두 얼굴 모두 안 보임
+
+===== 아래부터 복사 =====
+A frame from a live-action-style stop-motion feature film, shot on a real handmade 1:6 miniature set. 16:9. Use image 1 only for the place, furniture, bedding and night light: do not copy its camera. The doll is the one in image 2, seen only from behind. The woman is the puppet of image 3, seen only from behind.
+
+Camera: on the worktable, at the height of the doll's shoulders, looking across the table to the bed against the left wall. We look past the doll at the woman, as if the doll is watching her. Long lens, shallow focus.
+
+Foreground: at the right edge, the back of the doll's head, bun and hood, large, dark and strongly out of focus, cropped by the right and bottom edges, covering about a quarter of the frame. Next to it at the bottom, an untidy pile of unfinished pattern papers and a sketchbook, dropped carelessly, also out of focus.
+
+Subject, in focus: in the left half of the frame, further away and small, the woman lies in bed on her side, curled comfortably, turned toward the wall with her back to us, head on the pillow. The olive blanket covers her from the shoulders down, including her feet. We see only the back of her bun and the top of her hood. She has simply gone to bed: not fallen, not face down, not dead. No shoes visible.
+
+Background: dim wall with a few soft sketches. The space between the doll and the bed is dark and empty. The whole room must not be visible.
+
+Light: one warm desk lamp out of frame at the right, a faint amber edge on the doll's yarn hair and a weak glow on the blanket; weak cool blue light from the window. Most of the frame falls into shadow. Muted colour, gentle film grain. Not evenly lit, not glossy, not saturated.
+
+Only one doll and one woman, no face visible. Not a video game, not a 3D render. No text.
