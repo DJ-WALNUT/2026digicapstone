@@ -1,8 +1,0 @@
-Edit image 1. Keep only the right phone and redraw its screen as a clean, flat, full-screen 9:16 image (no phone frame, no background), straight-on and sharp. Same dark design, same avatars. The comments, from top to bottom, must read exactly:
-
-하늘이: 과제가 알아서 끝났어요…!
-민지: 이거 진짜 편함… 요즘 없으면 못 살아요 ㅠㅠ
-지유: 시간이 생겨서 다른 작업도 할 수 있어요!
-새벽: 요즘 다들 하나씩 있던데ㅋㅋ
-
-Do not add any other comments. Spell every Korean word exactly as written. No real app logo.

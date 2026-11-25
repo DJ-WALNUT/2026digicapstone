@@ -1,0 +1,16 @@
+[03_골목_아침] 새 대화에서 시작
+첨부: 이 폴더의 이미지를 번호 순서대로 올리기
+비율: 가로 16:9
+저장: 02_팀원배포/기준에셋_사용자/결과물/L02_골목_아침.png
+합격 기준: 현관에서 큰길을 보는 시점. 벽돌·담쟁이·화분이 밤 컷과 같음. 손과 발 없음. 회색 도형 없음
+
+===== 아래부터 복사 =====
+STYLE: handcrafted stop-motion puppet animation film, photographed for real on a miniature set (1:6 scale), based on the stylized 3D character design in the attached references. Characters are physical puppets: smooth matte resin/silicone faces with subtle hand-painted blush and freckles, slightly oversized glassy eyes, hair sculpted from real fibers, clothes tailored from real miniature fabric with visible weave, fuzz and stitching. Sets are handmade miniatures: real wood grain, paper, tiny props, slight imperfections, faint fingerprints and dust. Practical miniature lighting, macro lens look with shallow depth of field, subtle film grain. Mood: quiet psychological horror hidden inside a cozy, warm everyday world. Color: warm amber / tungsten practical lights, deep brown shadows, muted olive and charcoal accents. Keep proportions, face shape, hairstyle and clothing EXACTLY consistent with the attached reference images. No text, no watermark, no logo unless asked.
+
+The first attached image is the approved NIGHT version of this alley. Create the MORNING version with a DIFFERENT CAMERA: a first-person POV standing on the front door step of the red-brick house (the door with the small concrete canopy and potted plants), looking straight down the alley toward the main street, as if just stepping out of the door to go to school.
+
+Match the camera position and angle of the second attached image (grey blocking render, file name starting with BLK_). It is a 3D layout guide only: match its object positions, alley width and camera angle exactly, but replace the plain grey shapes with fully detailed miniature-set versions in the same style as the first image (same red brick, ivy, utility poles and wires, concrete walls, cracked asphalt, potted plants, fallen leaves).
+
+The tall green column on the right is ivy on the wall, the dark vertical bars are a window grille, and the round green balls are leafy potted plants. Leave no flat grey surfaces, no plain green column and no geometric green balls.
+
+Bright ordinary morning: soft sunlight, porch lamp off, clear pale sky, a few tiny distant pedestrians at the far end. No hands, feet or body of the viewer visible in the frame. Calm, normal, almost too peaceful. No text.

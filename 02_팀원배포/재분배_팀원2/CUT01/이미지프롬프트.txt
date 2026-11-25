@@ -1,7 +1,0 @@
-[CUT01]
-첨부 (이 순서대로 올리기): 1_P01_SNS화면.png
-저장 이름: CUT01_게시물_v1.png
-합격 기준: 한글이 기존과 같음
-
-===== 아래부터 복사 =====
-Edit image 1. Keep only the left phone and redraw its screen as a clean, flat 9:16 full-screen image (no phone frame, no background), sharp and straight-on. Keep the same design, the same doll and all Korean text exactly as it is now. Do not add any new text or logo.

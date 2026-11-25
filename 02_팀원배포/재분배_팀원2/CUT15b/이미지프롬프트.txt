@@ -1,7 +1,0 @@
-[CUT15b]
-첨부 (이 순서대로 올리기): 1_C03_인형정면_크롭.png / 2_CUT15a_기준.png / 3_구도_CUT15b.png
-저장 이름: CUT15b_첫장면_v1.png
-합격 기준: 인형은 무표정, 손가락 5개, 서연 얼굴은 안 보임
-
-===== 아래부터 복사 =====
-Create the next shot after image 2, 16:9, with the camera and doll size of image 3. The grey 3D layout image is only a guide for camera, positions and sizes; do not copy its colours, plain shapes or faces. It has the same room, same golden morning light. Close-up at table height of the small felt doll from image 1 standing on the worktable, facing the camera almost frontally; copy its face exactly, neutral expression. The woman's hand and olive fleece sleeve from image 2 enter from the upper left, fingertips resting gently on top of the doll's yarn hair. Her hand is puppet skin, natural proportions, five fingers. Her face is not visible. Pattern paper and sewing tools softly out of focus. No text.

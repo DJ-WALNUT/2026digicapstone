@@ -1,9 +1,0 @@
-[CUT16]
-첨부 (이 순서대로 올리기): 1_구도_CUT16.png / 2_방_밤_기준.png / 3_C01_주인공_턴어라운드.png / 4_C03_인형정면_크롭.png
-저장 이름: CUT16_첫장면_v1.png
-합격 기준: 얼굴이 보이지 않음. 손 두 개, 손가락 5개씩. 바로 위에서 내려다본 각도
-
-===== 아래부터 복사 =====
-Create one film still, straight top-down view with the camera, positions and sizes of image 1, worktable and night lamp light of image 2. The grey 3D layout image is only a guide for camera, positions and sizes; do not copy its colours, plain shapes or faces. (image 1)
-From the left edge come the two olive fleece sleeves and puppet hands of the woman in image 3; only the top of her dark hair is at the frame edge, no face. She is placing sheets of pattern paper beside the standing 15 cm felt doll of image 4, seen from above. Two hands, five fingers each.
-Handmade 1:6 miniature puppet film still, photographed for real. 16:9. No text, no labels, no grey placeholder shapes.
