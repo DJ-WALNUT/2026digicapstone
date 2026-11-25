@@ -1,7 +1,7 @@
-■ CUT 11 영상 (Seedance)
-첨부: 1_첫프레임_CUT11.png / 음성 올리지 않음
+■ CUT 11 영상 v2 (Seedance, 립싱크)
+첨부: 1_첫프레임_CUT11.png / 2_CUT11_서연_소원이없겠다_FINAL.wav (Audio 1)
 설정: 5초, 16:9, 720p
-저장: CUT11_영상.mp4 → 05_본제작/CUT11/
-편집: "진짜로 해주면… 소원이 없겠다."(3.4초)를 덮는다. 입이 안 맞아 보이면 음성을 첨부해 다시 생성
+저장: CUT11_영상_v2.mp4 → 05_본제작/CUT11/
+편집: 편집에서 원본 음성(3.4초)을 덮는다. v1은 음성 없이 만들어 입모양이 맞지 않아 탈락
 ===== 복사 =====
-Keep the faces, proportions, objects, lighting and composition as in the starting image. The doll already stands on the table. Her hands slowly loosen and let go of it. She looks at it with the same faint wry smile and murmurs under her breath for about three seconds with very small lip movements, then her lips close. Her head stays in place. The doll stays perfectly still. Locked camera. A ticking clock. No voice, no music, no subtitles.
+Keep the faces, proportions, objects, lighting, focus and composition exactly as in the starting image. From the very start she says the line in audio 1 to the doll, quietly, with a faint wry smile, lip-synced to audio 1. The line has two phrases with a short pause between them: her lips clearly form every syllable of the first phrase, close during the pause, clearly form every syllable of the second phrase, then close and stay closed. Her lip movements are small but always visible. Her head stays in place and her face is never hidden; her eyes stay on the doll and stay open during the line. Her hands stay gently resting around the doll. The doll is an inanimate object and stays perfectly still; its mouth never moves. Locked camera. A quiet room with a ticking clock. Only her lips and jaw move, slightly, smooth and continuous; the cheeks, nose and face outline do not change. The mouth never opens wide and the lips never push forward. Use audio 1 as the voice exactly; no other voice, no music, no subtitles.
