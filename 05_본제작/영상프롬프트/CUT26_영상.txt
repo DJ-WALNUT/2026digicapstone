@@ -1,7 +1,9 @@
 ■ CUT 26 영상 (Seedance)
 첨부: 첫 프레임 = CUT26_첫장면_FINAL.png 만. 음성 없음
 설정: 5초, 16:9, 720p
-저장: CUT26_영상.mp4
+저장: CUT26_영상_v2.mp4
 편집: 펜 떨어지는 소리를 컷 첫머리에 넣고, 손이 멈춘 뒤 "…피곤해서 그런가."(1.6초)를 덮는다
 ===== 복사 =====
-Keep the faces, proportions, objects, lighting and composition as in the starting image. The pencil rolls a little and stops. The fingers tremble, try to close, hesitate with a small stiff jerk, then rest still. Five fingers at all times. Locked camera. Quiet night room tone. No voice, no music, no subtitles.
+Keep the hand, sleeve, objects, lighting, focus and composition exactly as in the starting image. Only the fingertips move. The arm, elbow, wrist and sleeve are completely still for the whole shot: the sleeve never slides, stretches or comes off, and the cuff stays at the same place on the wrist, with the tiny stitches beside it unchanged. The forearm stays resting on the table, always fully covered by the sleeve.
+
+The ring and middle fingers twitch once, bend by a few millimetres in one small stiff movement, stop halfway, and slowly relax back. Then the whole hand rests still. The pencil does not move. Soft felt-like skin, no joint lines, no ball joints, no wooden or plastic arm. It is a right hand seen from its little-finger side: exactly four fingers are visible and the thumb stays hidden on the far side at all times. No thumb appears on the near side. The hand does not turn, lift or slide. Locked camera. Quiet night room tone. No voice, no music, no subtitles.
