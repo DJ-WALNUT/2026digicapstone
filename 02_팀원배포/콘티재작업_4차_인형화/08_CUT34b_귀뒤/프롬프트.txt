@@ -1,0 +1,13 @@
+[CUT34b (이미지로 사용)] 새 대화에서 시작
+첨부 (이 순서대로): 1_CUT34b_구도.png / 합격한 CUT34_첫장면_v4.png (07이 합격한 뒤) / 3_수빈_봉제선.png
+비율: 가로 16:9
+저장 이름: 결과물/CUT34b_첫장면_v2.png
+장면: 수빈의 귀 뒤 봉제선. (정도 1)
+합격 기준: 피부가 34 v4와 같은 퍼펫 질감. 봉제선이 귀 뒤에서 옷깃까지 6~8땀으로 이어짐. 머리핀 하나. 얼굴은 거의 안 보임
+
+===== 아래부터 복사 =====
+Edit image 1. Keep the same extreme close-up, camera, hair, hairpin, collar, light and colour. 16:9. It is the same girl as in image 2, seen from behind her ear.
+
+Change two things only. Her ear, neck and cheek are no longer real human skin with pores: they are the smooth matte puppet material of image 2, with a faint felt nap on the neck. In place of the two small marks there is a neat line of six to eight small cross stitches starting just behind the earlobe and running down the neck into the collar, as in image 3. The stitches are real black thread sewn through the surface, pulled slightly tight so the material puckers a little. They are not a drawing, not a tattoo, not a scar. Use image 3 only for the stitches.
+
+No hand, no other person. Real photographed handmade miniature puppet film still, long lens, shallow depth of field, gentle film grain. Not a real human, not a glossy 3D render, not a video game. No blood, no wound, no torn skin, no text.

@@ -1,7 +1,8 @@
-■ CUT 36b 영상 (Seedance)
-첨부: 1_첫프레임_CUT36b.png (36a 영상의 마지막 장면) / 2_CUT36b_수빈_하나구했구나_FINAL.wav (Audio 1)
+■ CUT 36b 영상 v2 (Seedance) : 이미지(36b v3)가 합격한 뒤에 만들기
+첨부: 1_첫프레임_CUT36b.png (합격하면 Claude가 넣음) / 2_CUT36b_수빈_하나구했구나_FINAL.wav (Audio 1)
+주의: 가능하면 이미지를 참고 이미지가 아니라 "첫 프레임" 자리에 올린다. v1은 첫 화면부터 첨부 이미지와 달랐다
 설정: 5초, 16:9, 720p
-저장: CUT36b_영상.mp4 → 05_본제작/CUT36b/
-편집: 음성 2.3초. 소리가 먹먹해지는 효과는 편집에서
+저장: CUT36b_영상_v2.mp4 → 05_본제작/CUT36/
+편집: 36a와 같은 구도로 바로 이어 붙인다. 음성 2.3초. 소리가 먹먹해지는 효과는 편집에서
 ===== 복사 =====
-Keep the faces, proportions, objects, lighting and composition as in the starting image. She holds the same ordinary smile for a moment. Then, without changing the smile, she says the line in audio 1 to the camera quietly, lip-synced to audio 1. Her head and eyes do not move. Afterwards her lips close and she stays still with the same smile. Everyone behind her becomes almost motionless. Completely locked camera. Her smile never turns sinister. The faint marks on her neck do not move or grow. First-person view at a steady eye height: no hands, no body, no shadow and no reflection of the viewer at any time. Room tone slowly fades. Only the lips and jaw move, slightly, smooth and continuous; the cheeks, nose and face outline do not change. Use audio 1 as the voice exactly; no other voice, no music, no subtitles.
+Image 1 is the exact first frame. Keep its framing, pose, shoulders, face, stitches, objects, lighting and composition unchanged for the whole clip. There is only one character in the foreground. Her shoulders stay turned away and only her face is toward the viewer. She holds the same small smile for a moment. Then, without changing the smile, she says the line in audio 1 quietly, lip-synced to audio 1, with her eyes fixed straight into the lens the whole time. She never blinks and her head does not move. Afterwards her lips close and she stays completely still with the same smile. Her hands stay out of frame; she holds nothing. No object or person enters the frame. The stitches do not move or grow. Completely locked camera. Room tone slowly fades. Only the lips and jaw move, slightly, smooth and continuous; the cheeks, nose and face outline do not change. Her smile never turns sinister. Use audio 1 as the voice exactly; no other voice, no music, no subtitles.

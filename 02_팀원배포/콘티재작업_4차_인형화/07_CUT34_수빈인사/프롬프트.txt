@@ -1,0 +1,13 @@
+[CUT34] 새 대화에서 시작
+첨부 (이 순서대로): 1_CUT34_구도.png / 2_CUT33_같은장면_인형질감.png / 3_C05_수빈_턴어라운드.png (wav는 영상 때만)
+비율: 가로 16:9
+저장 이름: 결과물/CUT34_첫장면_v4.png
+장면: 반갑게 돌아보는 수빈. 33의 민준과 같은 퍼펫으로 보인다. 목의 봉제선은 아주 작다. (정도 0.5)
+합격 기준: 구도가 1번과 같음. 사람 피부가 아니라 33의 민준과 같은 매끈한 퍼펫. 수빈으로 알아봄. 머리핀 하나. 얼굴 봉제선 없음
+
+===== 아래부터 복사 =====
+Edit image 1. Keep the same framing, camera, pose, head angle, hair, single hairpin, clothes, table, classroom, light and colour. 16:9.
+
+In image 1 her face looks like a real human. Make her the same kind of stop-motion puppet as the boy in image 2, who is in the same scene: smooth matte resin face without pores, simplified small nose and mouth, larger round dark eyes, soft painted blush and a few painted freckles. She must be recognisable as the girl in image 3: black chin-length bob, thin bangs, beige cable-knit sweater, off-white collar. She wears only the one hairpin seen in image 1. Use image 2 only for the style.
+
+Below and behind her ear there are only three tiny cross stitches, half in shadow. The stitches are real black thread sewn through the surface, pulled slightly tight so the material puckers a little. They are not a drawing, not a tattoo, not a scar. No stitches on the face. Ordinary friendly small smile, lips closed, looking up at the viewer over her shoulder. No hands of the viewer. Not creepy. Real photographed handmade miniature puppet film still, long lens, shallow depth of field, gentle film grain. Not a real human, not a glossy 3D render, not a video game. No blood, no wound, no torn skin, no text.

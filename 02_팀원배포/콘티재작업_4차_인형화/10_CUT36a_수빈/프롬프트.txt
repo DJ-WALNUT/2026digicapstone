@@ -1,0 +1,15 @@
+[CUT36a] 새 대화에서 시작
+첨부 (이 순서대로): 1_CUT36_구도.png / 2_질감기준_거울속대체품.png / 합격한 CUT34_첫장면_v4.png (07이 합격한 뒤)
+비율: 가로 16:9
+저장 이름: 결과물/CUT36a_첫장면_v3.png
+장면: 어깨 너머로 돌아본 수빈. 사람 같던 얼굴이 거울 속 대체품과 같은 인형 질감으로 보인다. 아직 얼굴 봉제선은 없다. (정도 2)
+합격 기준: 1번과 구도가 같음. 수빈으로 알아볼 수 있음. 눈이 카메라를 봄. 진짜 사람 피부로 안 보임. 얼굴 봉제선 없음. 머리핀 하나. 다른 인형이나 물건 없음
+
+===== 아래부터 복사 =====
+Edit image 1. Keep the same framing, camera, pose, head angle, size and position of the head, clothes, single hairpin, window, background, light and colour. 16:9. Change only what she is made of.
+
+In image 1 she looks too much like a real human. Make her a handmade stop-motion puppet with the same face material and the same level of stylisation as the puppet in image 2: a smooth matte face with very fine felt-like fuzz and no pores, a simplified small nose, a small simple mouth, rounder and larger dark glossy eyes that look like polished glass beads, soft painted blush and a few painted freckles, hair like fine wool strands laid in locks. Use image 2 only for the material and stylisation; do not copy its face, hair, clothes, stitches or place. She must be the same girl as in image 3, a few minutes later, only a little more doll-like: black chin-length bob, thin bangs, beige cable-knit sweater, off-white collar. She wears only the one hairpin seen in image 1.
+
+Both eyes look straight into the lens. Lips closed in an ordinary, kind, small smile. The whole mouth is unobstructed. Only a very faint hint of stitches in the shadow below the ear, as in image 1; no stitches on the face.
+
+No other doll, no toy, no hands, no new object, no new person. Not creepy, no wound. Real photographed handmade miniature puppet film still, long lens, shallow depth of field, gentle film grain. Not a real human, not a glossy 3D render, not a video game. No text.

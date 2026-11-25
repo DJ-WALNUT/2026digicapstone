@@ -1,0 +1,13 @@
+[CUT26] 새 대화에서 시작
+첨부 (이 순서대로): 1_CUT26_구도.png / 2_피부와_봉제선.png
+비율: 가로 16:9
+저장 이름: 결과물/CUT26_첫장면_v3.png
+장면: 굳어 버린 오른손. 손등이 천으로 변하기 시작했다. (정도 2)
+합격 기준: 구도, 손가락 수, 연필 위치가 1번과 같음. 엄지 없음. 소매 끝 손목을 두르는 봉제선이 또렷함. 손등 절반이 펠트, 손가락 끝은 아직 사람
+
+===== 아래부터 복사 =====
+Edit image 1. Keep exactly the same framing, hand pose, number and position of fingers, sleeve, pencil, paper, pincushion, light and colour. 16:9. It is a right hand seen from its little-finger side: four fingers are visible, the thumb stays hidden on the far side.
+
+Change only the material of the hand. The sleeve cuff sits one centimetre farther back, and the wrist has a clear, neat line of small cross stitches running around it in front of the cuff. The stitches are real black thread sewn through the surface, pulled slightly tight so the material puckers a little. They are not a drawing, not a tattoo, not a scar. From the stitches to the knuckles the back of the hand is skin-coloured felt with a visible soft nap and slightly rounded, stuffed-looking edges. It changes gradually: past the knuckles the fingers are still almost normal skin. Use image 2 only for the stitches and the felt-like skin, not for the pose.
+
+No ball joints, no joint lines, no wood or plastic, no second hand. Real photographed handmade miniature puppet film still, long lens, shallow depth of field, gentle film grain. Not a real human, not a glossy 3D render, not a video game. No blood, no wound, no torn skin, no text.

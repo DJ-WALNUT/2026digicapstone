@@ -1,0 +1,13 @@
+[CUT24b (새 컷, 이미지로 사용)] 새 대화에서 시작
+첨부 (이 순서대로): 1_CUT24_장면.png / 2_목덜미_봉제선.png
+비율: 가로 16:9
+저장 이름: 결과물/CUT24b_첫장면_v1.png
+장면: 24에서 목을 짚던 손을 내린 직후의 목 뒤 클로즈업. 21보다 봉제선이 길어졌다. (정도 1.5)
+합격 기준: 24와 같은 사람, 같은 아침 빛. 봉제선이 귀 뒤에서 목덜미 아래로 이어짐. 봉제선 둘레만 살짝 천 질감. 얼굴은 거의 안 보임
+
+===== 아래부터 복사 =====
+The next shot of the same scene as image 1, one second later. 16:9. Same young woman, same messy auburn bun, same olive fleece hoodie, same warm morning light, same film grain. Extreme close-up with a long lens on the back of her neck and behind one ear, seen from behind and slightly to the side. Her hand has just left her neck and is out of frame. Her face is turned away; at most the soft edge of a cheek is visible.
+
+From behind the ear a neat line of about ten small cross stitches runs down and across to the middle of the nape and disappears under the hood, as in image 2 but longer. The stitches are real black thread sewn through the surface, pulled slightly tight so the material puckers a little. They are not a drawing, not a tattoo, not a scar. Right along the stitches, about half a centimetre on both sides, the skin has turned into fine skin-coloured felt with a soft nap; farther away it is still normal skin. The hood is pulled down a little so that the line is clearly visible.
+
+Background very dark and blurred. No hand, no doll, no mirror, no other person. Use image 2 only for the look of the stitches. Real photographed handmade miniature puppet film still, long lens, shallow depth of field, gentle film grain. Not a real human, not a glossy 3D render, not a video game. No blood, no wound, no torn skin, no text.

@@ -1,0 +1,15 @@
+[CUT36b] 36a 이미지가 합격한 뒤 만들기
+첨부 (이 순서대로): 합격한 CUT36a_첫장면_v3.png / 2_봉제선기준_거울속대체품.png
+비율: 가로 16:9
+저장 이름: 결과물/CUT36b_첫장면_v3.png
+장면: 같은 구도, 같은 미소. 그런데 거의 인형이 되어 있다. 36a에서 컷이 바뀌는 순간 드러나는 반전. (정도 3)
+합격 기준: 36a와 겹쳤을 때 머리, 눈, 입의 위치가 같음. 눈이 카메라를 봄. 귀 앞에서 턱선을 따라 내려가는 봉제선과 목의 봉제선이 또렷함. 온전한 천 인형은 아님(CUT40의 인형 서연보다 약하게). 미소는 그대로. 다른 인형 없음
+
+===== 아래부터 복사 =====
+Edit image 1. Keep exactly the same framing, camera, pose, head angle, position and size of the head, eyes and mouth, hairstyle, hairpin, clothes, background and light. It must line up with image 1 when the two are cut together. 16:9.
+
+Change only this: she is now clearly almost a doll. Her face is soft matte cloth-like material with a visible fine felt nap. A neat line of small dark hand-sewn stitches starts in front of her visible ear, runs down along the jaw line to just below the chin, and a second short line of stitches runs down the side of her neck into the collar. The stitches have the same size, thread and neatness as those on the jaw and neck in image 2. Use image 2 only for the stitches and material; do not copy its face, hair, clothes or place. Her eyes are dark, still glass beads with one small highlight each and look straight into the lens. Her mouth is a small simple shape with the lips closed.
+
+Her expression does not change: the same ordinary, kind, small smile. She is still clearly the same girl as in image 1, at the same human size, not a toy and not a rag doll.
+
+No other doll, no hands, no new object, no new person. No blood, no wound, no torn cloth, no stitches across the mouth or eyes. Real photographed handmade miniature puppet film still, shallow depth of field, gentle film grain. No text.

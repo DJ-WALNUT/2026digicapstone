@@ -1,0 +1,13 @@
+[CUT22 전] 새 대화에서 시작
+첨부 (이 순서대로): 1_CUT22후_구도.png / 2_CUT08b_펠트인형.png / 3_CUT15b_펠트인형.png
+비율: 가로 16:9
+저장 이름: 결과물/CUT22_전_v2.png
+장면: "전" 인형. 처음 주운 펠트 인형의 얼굴. 기존 "후"와 같은 자리에서 바뀌어야 한다.
+합격 기준: 1번과 겹쳤을 때 머리 크기와 눈 위치가 같음. 펠트 질감, 털실 머리, 작은 바느질 입, 검은 단추 같은 눈. 한눈에 "천 인형"으로 보임. 사람 손 없음
+
+===== 아래부터 복사 =====
+Edit image 1. Keep exactly the same framing, camera, background, table edge, light and colour, and the same position and size of the head, eyes, bun and shoulders. It must line up with image 1 when the two are cut together. 16:9.
+
+Replace only the doll itself with the earlier, simpler doll from images 2 and 3: a flat round off-white felt face with a visible wool nap, solid glossy black bead eyes with no iris, a tiny nose of rolled felt, a very small embroidered mouth, round pink felt blush, thick twisted yarn hair in a messy bun with loose yarn ends, and the same olive hoodie in coarse fleece with slightly uneven hand stitching. It looks straight ahead like the doll in image 1. It must read at a glance as a simple handmade cloth doll, clearly less human than image 1.
+
+No hands, no other doll, no new object. Real photographed handmade miniature puppet film still, long lens, shallow depth of field, gentle film grain. Not a real human, not a glossy 3D render, not a video game. No blood, no wound, no torn skin, no text.

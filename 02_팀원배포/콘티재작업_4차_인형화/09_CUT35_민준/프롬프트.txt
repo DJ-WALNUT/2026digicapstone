@@ -1,0 +1,13 @@
+[CUT35] 새 대화에서 시작
+첨부 (이 순서대로): 1_CUT35_구도.png / 2_민준_봉제선.png / 3_CUT33_같은인물.png
+비율: 가로 16:9
+저장 이름: 결과물/CUT35_첫장면_v3.png
+장면: 웃는 민준. 귀 아래에서 턱선을 따라 봉제선이 보인다. (정도 1.5)
+합격 기준: 구도가 1번과 같음. 봉제선이 귀밑에서 턱선을 따라 턱 중간까지 또렷함(목의 선은 없앰). 33과 같은 퍼펫 얼굴. 웃음은 평범함
+
+===== 아래부터 복사 =====
+Edit image 1. Keep the same framing, camera, pose, smile, hair, clothes, the blurred girl at the right, the classroom, light and colour. 16:9.
+
+Change two things only. He has the same puppet face material as in image 3, which is the same boy in the same scene: smooth matte, no pores, with a faint felt nap along the jaw. Remove the small marks on his neck. Instead a neat line of small cross stitches starts under his visible ear and follows the edge of the jaw about halfway to the chin, as in image 2. The stitches are real black thread sewn through the surface, pulled slightly tight so the material puckers a little. They are not a drawing, not a tattoo, not a scar. Use image 2 only for the place and look of the stitches. The line is clearly readable but he behaves as if it were nothing.
+
+He laughs in an ordinary, friendly way. No stitches on the cheeks or mouth. No hands of the viewer, no new person. Real photographed handmade miniature puppet film still, long lens, shallow depth of field, gentle film grain. Not a real human, not a glossy 3D render, not a video game. No blood, no wound, no torn skin, no text.

@@ -1,0 +1,16 @@
+[CUT27] 새 대화에서 시작
+첨부 (이 순서대로): 1_CUT27_구도.png / 2_질감과_봉제선.png / 3_CUT23_인형.png
+비율: 가로 16:9
+저장 이름: 결과물/CUT27_첫장면_v2.png
+장면: 모른 채 다시 작업하는 서연. 귀 뒤부터 목, 볼 가장자리까지 천으로 변했다. 뒤의 인형은 사람에 가깝다. (정도 2.5)
+합격 기준: 구도와 얼굴 방향, 인형 크기가 1번과 같음. 귀 뒤에서 목으로 내려가는 긴 봉제선이 한눈에 보임. 목과 볼 가장자리만 천, 얼굴 앞쪽은 사람. 인형 후드는 올리브색
+
+===== 아래부터 복사 =====
+Edit image 1. Keep the same framing, camera, pose, profile, hair, clothes, desk, window, lamp, light and colour, and the same size and place of the figure at the window. 16:9.
+
+Change three things only.
+1. A clear line of small cross stitches starts behind her visible ear, runs down the side of the neck and disappears into the hood. A few strands of hair are tucked away so it can be seen. The stitches are real black thread sewn through the surface, pulled slightly tight so the material puckers a little. They are not a drawing, not a tattoo, not a scar.
+2. The skin of her neck, the ear and the outer edge of her cheek and jaw has turned into soft skin-coloured felt with a visible nap, the material of the face in image 2. It fades gradually: her eye, nose, mouth and the front of her cheek are still as in image 1. She is not yet a doll.
+3. The out-of-focus figure at the window wears an OLIVE GREEN hoodie like the one in image 3, not grey, and has the natural proportions of image 3. It stays the same small size, clearly a doll standing on the far desk, blurred.
+
+Use images 2 and 3 only for material and clothing colour. She is tired and notices nothing. No other doll, no new object, no stitches on the front of the face. Real photographed handmade miniature puppet film still, long lens, shallow depth of field, gentle film grain. Not a real human, not a glossy 3D render, not a video game. No blood, no wound, no torn skin, no text.

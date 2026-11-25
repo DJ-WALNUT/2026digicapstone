@@ -1,0 +1,7 @@
+■ CUT 35 영상 (Seedance) : 이미지가 합격한 뒤에 만들기
+첨부: 합격한 CUT35_첫장면 이미지 (첫 프레임 자리) / 음성 올리지 않음
+설정: 5초, 16:9, 720p
+저장: 이 폴더에 드리미나 파일명 그대로 넣기 (검토와 이름 정리는 Claude)
+
+===== 복사 =====
+Image 1 is the exact first frame. Keep the faces, proportions, materials, stitches, objects, lighting, focus and composition exactly as in it for the whole clip. No new object, doll or person enters. The stitches and the cloth texture do not move, grow or change. The boy laughs naturally with very small head movement, then settles into an ordinary smile. The jaw line with the stitches stays visible. The blurred classmate at the right edge stays almost still and does not turn around. His cheek stays resting on his hand. Nothing creepy. Locked camera. First-person view at a steady eye height: no hands, no body, no shadow and no reflection of the viewer. Quiet classroom chatter and ordinary laughter. No voice, no music, no subtitles.

@@ -1,0 +1,7 @@
+■ CUT 21 영상 (Seedance) : 이미지가 합격한 뒤에 만들기
+첨부: 합격한 CUT21_첫장면 이미지 (첫 프레임 자리) / 음성 올리지 않음
+설정: 5초, 16:9, 720p
+저장: 이 폴더에 드리미나 파일명 그대로 넣기 (검토와 이름 정리는 Claude)
+
+===== 복사 =====
+Image 1 is the exact first frame. Keep the faces, proportions, materials, stitches, objects, lighting, focus and composition exactly as in it for the whole clip. No new object, doll or person enters. The stitches and the cloth texture do not move, grow or change. She tilts her head slightly down and back up, once, checking herself in the mirror. The hood does not move and never covers the stitches. Her reflection moves in perfect sync, and there is only one woman and one reflection. No hand enters the frame. She does not notice anything. Locked camera. Ordinary morning sounds. No voice, no music, no subtitles.
